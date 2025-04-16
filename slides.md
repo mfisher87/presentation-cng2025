@@ -8,8 +8,8 @@ title-slide-attributes:
 format:
   revealjs:
     theme: "white"
-    footer: "[Home](/) | [Source](https://mfisher87.github.io/presentation-cng2025)"
-    auto-stretch: true 
+    footer: "[Home](/) | [Source](https://github.com/mfisher87/presentation-cng2025)"
+    auto-stretch: true
     slide-number: true
 ---
 
