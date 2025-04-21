@@ -13,5 +13,7 @@ format:
     theme:
       - "cosmo"
       - "brand"
-    css: "styles.css"
+    css: "assets/css/main.css"
     toc: true
+  revealjs:
+    css: "assets/css/slides.css"
