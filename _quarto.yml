@@ -15,5 +15,7 @@ format:
       - "brand"
     css: "assets/css/main.css"
     toc: true
+    from: "markdown+emoji"
   revealjs:
+    from: "markdown+emoji"
     css: "assets/css/slides.css"
