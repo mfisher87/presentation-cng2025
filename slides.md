@@ -4,7 +4,8 @@ subtitle: |
   TODO
 title-slide-attributes:
   data-notes: |
-    TODO
+    Hi, I'm Matt Fisher, and I'm a Research Software Engineer and Community Engagement
+    Manager for GeoJupyter.
 format: "revealjs"
 ---
 
