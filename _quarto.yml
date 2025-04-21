@@ -3,6 +3,11 @@ project:
 
 website:
   title: "CNG 2025 - GeoJupyter"
+  site-url: "https://mfisher87.github.io/presentation-cng2025"
+
+  repo-url: &repo-url "https://github.com/mfisher87/presentation-cng2025"
+  repo-actions: ["edit", "issue"]
+
   navbar:
     left:
       - text: "Slides"
