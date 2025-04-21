@@ -35,3 +35,11 @@ format: "revealjs"
 2. Contribute your needs and experiences
 3. Contribute code
 4. Contribute vibes
+
+
+## :question: What is GeoJupyter?
+
+![GeoJupyter is **not** software; it's a **community** which will build many things!](/assets/images/venn-diagram.svg)
+
+:::notes
+:::
