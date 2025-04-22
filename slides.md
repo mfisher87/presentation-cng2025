@@ -17,9 +17,9 @@ format: "revealjs"
 4. How you can get involved
 
 
-## QR code self-link
+## View the slides on the web
 
-TODO
+![<https://mfisher87.github.io/presentation-cng2025/>](/assets/images/qr.svg)
 
 :::notes
 If you missed it, don't worry, we'll leave the QR code up at the end.
@@ -219,9 +219,9 @@ The _GeoJupyter_ flagship project...
 * :sunglasses: Contribute awesome vibes to our community!
 
 
-## QR code self-link
+## View the slides on the web
 
-TODO
+![<https://mfisher87.github.io/presentation-cng2025/>](/assets/images/qr.svg)
 
 
 # :tada: Bonus slides
