@@ -89,6 +89,14 @@ we're not actively solving all of these problems right now, but we might give it
 
 ## TODO: :woman_dancing: _The GIS Bounce_ :man_dancing:
 
+* Do some analysis
+* Write out a data file
+* Download it to local machine
+* Open QGIS, load basemap, load data file
+* Validate, inspect, explore
+* :shower: Repeat
+
+
 ## TODO: Linked visualizations
 
 ## TODO: Vertical landscapes
