@@ -23,7 +23,8 @@ format: "revealjs"
 ![<https://mfisher87.github.io/presentation-cng2025/>](/assets/images/qr.svg)
 
 :::notes
-If you missed it, don't worry, we'll leave the QR code up at the end.
+These slides are available on the web at this URL, as well as on GitHub.
+If you missed it, don't worry, I'll leave this slide up at the end.
 :::
 
 
