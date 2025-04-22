@@ -69,3 +69,23 @@ A common point of confusion is the name GeoJupyter vs JupyterGIS.
 **JupyterGIS** is a GIS platform in JupyterLab that can be used in some similar ways to QGIS.
 We'll talk more about JupyterGIS shortly.
 :::
+
+
+# :tada: Bonus slides
+
+## :handshake: I want to talk to you! {.smaller}
+
+### :left_speech_bubble: Ask me about...
+
+* :people_holding_hands: Community engagement stuff
+* :open_hands: Open source stuff
+* :muscle: Accessibility stuff
+* :package: New Python project/environment management tools (`uv`, `pixi`)
+
+
+### :ear: I want to ask you about...
+
+* :point_up: All that stuff up there
+* :coffee: JavaScript map engines & cloud-native data support
+* :hole: What gaps or friction you see in the open source geospatial ecosystem
+* :stop_sign: What's stopping your team from integrating JupyterGIS in your workflows
