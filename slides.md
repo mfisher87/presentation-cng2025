@@ -38,6 +38,15 @@ format: "revealjs"
 4. Contribute vibes
 
 
+## QR code self-link
+
+TODO
+
+:::notes
+If you missed it, don't worry, we'll leave the QR code up at the end.
+:::
+
+
 ## :question: What is GeoJupyter? {.smaller}
 
 <br />
@@ -174,6 +183,11 @@ The _GeoJupyter_ flagship project...
 * :gift: Open Pull Requests!
 * :ballot_box: Help develop and operate community governance and scaffolding!
 * :sunglasses: Contribute awesome vibes to our community!
+
+
+## QR code self-link
+
+TODO
 
 
 # :tada: Bonus slides
