@@ -52,7 +52,7 @@ confidently engage with geospatial data**.
 * **Collaboration** and **storytelling**, like Jupyter Notebooks
 
 
-## :people_holding_hands: A communtity!
+## :people_holding_hands: It's a communtity!
 
 ![GeoJupyter is **not** software; it's a **community** which will build many things!](/assets/images/venn-diagram.svg)
 
