@@ -74,7 +74,7 @@ We'll talk more about JupyterGIS shortly.
 
 ## :shrug: Why GeoJupyter?
 
-Existing workflows have some painful gaps:
+:face_with_head_bandage: Existing workflows have some painful gaps:
 
 * Friction when visualizing from a programming environment
 * Linked visualizations are difficult to build
@@ -87,14 +87,51 @@ we're not actively solving all of these problems right now, but we might give it
 :::
 
 
-## TODO: :woman_dancing: _The GIS Bounce_ :man_dancing:
+## :shrug: Why GeoJupyter?
 
+:face_with_head_bandage: Existing workflows have some painful gaps:
+
+* Friction when visualizing from a programming environment
+* [Linked visualizations are difficult to build]{.fade}
+* [Lack of tools for visualizing vertical landscapes]{.fade}
+* [Repeatable GIS layouts and symbology]{.fade}
+
+
+## :woman_dancing: _The GIS Bounce_ :man_dancing: (hard mode)
+
+::::::columns
+:::{.column width=50%}
 * Do some analysis
 * Write out a data file
 * Download it to local machine
 * Open QGIS, load basemap, load data file
 * Validate, inspect, explore
 * :shower: Repeat
+:::
+
+:::{.column width=50%}
+![](/assets/images/gis-bounce-hard.jpg)
+:::
+::::::
+
+
+## :woman_dancing: _The GIS Bounce_ :man_dancing: (easy mode)
+
+::::::columns
+:::{.column width=50%}
+One line of code! (excluding imports :smirk:)
+
+```python
+from jupytergis import explore
+
+explore(my_geodataframe)
+```
+:::
+
+:::{.column width=50%}
+![](/assets/images/gis-bounce-easy.jpg)
+:::
+::::::
 
 
 ## TODO: Linked visualizations
