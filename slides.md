@@ -13,12 +13,13 @@ format: "revealjs"
 
 ### What is GeoJupyter?
 
-1. Values
-2. Objectives
-3. Gaps in the existing ecosystem
-    a. Simple visualization (GIS Bounce)
-    b. Linked visualization
-    c. Vertical visualization
+1. ~~Values~~
+2. ~~Objectives~~
+3. ~~Gaps in the existing ecosystem~~
+    a. ~~Visualization (GIS Bounce)~~
+    b. ~~Linked visualization~~
+    c. ~~Vertical landscapes visualization~~
+    d. ~~Saving, repeating, and sharing layouts &amp; symbology~~
 
 
 ### What is JupyterGIS?
@@ -44,8 +45,8 @@ format: "revealjs"
 :::elevator-pitch
 <hr />
 
-GeoJupyter is an open and collaborative community-driven effort to [reimagine geospatial
-interactive computing]{.jupyter-orange} experiences for education, research, and industry.
+GeoJupyter is an open and community-driven effort to [reimagine geospatial interactive
+computing experiences]{.jupyter-orange} for education, research, and industry.
 
 We aim to combine the **approachability** and **playfulness** of desktop GIS tools, the
 **flexibility** and **reproducibility** of coding-driven GIS methods, and the **collaborative** and
@@ -73,6 +74,26 @@ We'll talk more about JupyterGIS shortly.
 
 ## :shrug: Why GeoJupyter?
 
+Existing workflows have some painful gaps:
+
+* Friction when visualizing from a programming environment
+* Linked visualizations are difficult to build
+* Lack of tools for visualizing vertical landscapes
+* Repeatable GIS layouts and symbology
+
+:::notes
+These are only a few examples we've heard from geospatial practitioners;
+we're not actively solving all of these problems right now, but we might give it a try eventually!
+:::
+
+
+## TODO: :woman_dancing: _The GIS Bounce_ :man_dancing:
+
+## TODO: Linked visualizations
+
+## TODO: Vertical landscapes
+
+## TODO: Repeatable GIS layouts and symbology
 
 
 # :tada: Bonus slides
