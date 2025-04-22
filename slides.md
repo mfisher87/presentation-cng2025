@@ -13,8 +13,9 @@ format: "revealjs"
 
 1. What is GeoJupyter?
 2. Why GeoJupyter?
-3. **Why you should get involved**
-4. How you can get involved
+3. JupyterGIS
+4. **Why you should get involved**
+5. How you can get involved
 
 
 ## View the slides on the web
@@ -64,6 +65,7 @@ We'll talk more about JupyterGIS shortly.
 
 :face_with_head_bandage: Existing workflows have some painful gaps:
 
+* Even experts often struggle
 * Friction when visualizing from a programming environment
 * Linked visualizations are difficult to build
 * Lack of tools for visualizing vertical landscapes
@@ -79,6 +81,45 @@ we're not actively solving all of these problems right now, but we might give it
 
 :face_with_head_bandage: Existing workflows have some painful gaps:
 
+* Even experts often struggle
+* [Friction when visualizing from a programming environment]{.fade]
+* [Linked visualizations are difficult to build]{.fade}
+* [Lack of tools for visualizing vertical landscapes]{.fade}
+* [Repeatable GIS layouts and symbology]{.fade}
+
+
+## Brianna's story
+
+[_When our community burned, where was the satellite information?_](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
+
+::::::columns
+:::{.column width=25%}
+![](/assets/images/brianna-pagan.jpg)
+:::
+
+:::{.column width=75%}
+> ...we are failing the people and causes that need us the most.
+:::
+::::::
+
+-- Brianna Pagán, Technical Program Lead @ Development Seed, ex-NASA Deputy DAAC Manager
+
+:::notes
+> I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
+> processing pipelines, I help manage one of the NASA satellite data centers, I teach
+> courses on climate resilience, adaptation and geoinformatics. […] and yet the irony is
+> that with all my experience I could not access the information I knew existed to help
+> our community.
+
+End-quote. You can read Brianna's full story by following the link at the top of the slide.
+:::
+
+
+## :shrug: Why GeoJupyter?
+
+:face_with_head_bandage: Existing workflows have some painful gaps:
+
+* [~~Even experts often struggle~~]{.fade}
 * Friction when visualizing from a programming environment
 * [Linked visualizations are difficult to build]{.fade}
 * [Lack of tools for visualizing vertical landscapes]{.fade}
@@ -126,6 +167,7 @@ explore(my_geodataframe)
 
 :face_with_head_bandage: Existing workflows have some painful gaps:
 
+* [~~Even experts often struggle~~]{.fade}
 * [~~Friction when visualizing from a programming environment~~]{.fade}
 * Linked visualizations are difficult to build
 * [Lack of tools for visualizing vertical landscapes]{.fade}
@@ -139,6 +181,7 @@ explore(my_geodataframe)
 
 :face_with_head_bandage: Existing workflows have some painful gaps:
 
+* [~~Even experts often struggle~~]{.fade}
 * [~~Friction when visualizing from a programming environment~~]{.fade}
 * [~~Linked visualizations are difficult to build~~]{.fade}
 * Lack of tools for visualizing vertical landscapes
@@ -151,6 +194,7 @@ explore(my_geodataframe)
 
 :face_with_head_bandage: Existing workflows have some painful gaps:
 
+* [~~Even experts often struggle~~]{.fade}
 * [~~Friction when visualizing from a programming environment~~]{.fade}
 * [~~Linked visualizations are difficult to build~~]{.fade}
 * [~~Lack of tools for visualizing vertical landscapes~~]{.fade}
@@ -164,6 +208,7 @@ explore(my_geodataframe)
 
 :face_with_head_bandage: Existing workflows have some painful gaps:
 
+* [~~Even experts often struggle~~]{.fade}
 * [~~Friction when visualizing from a programming environment~~]{.fade}
 * [~~Linked visualizations are difficult to build~~]{.fade}
 * [~~Lack of tools for visualizing vertical landscapes~~]{.fade}
@@ -181,6 +226,7 @@ gaps.
 So far we've conducted dozens of hours of user interviews to understand what folks need
 most, and we'll continue to use the input of real people to guide our priorities.
 :::
+
 
 # JupyterGIS
 
@@ -242,30 +288,3 @@ The _GeoJupyter_ flagship project...
 * :coffee: JavaScript map engines & cloud-native data support
 * :hole: What gaps or friction you see in the open source geospatial ecosystem
 * :stop_sign: What's stopping your team from integrating JupyterGIS in your workflows
-
-
-## Brianna's story
-
-[_When our community burned, where was the satellite information?_](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
-
-::::::columns
-:::{.column width=25%}
-![](/assets/images/brianna-pagan.jpg)
-:::
-
-:::{.column width=75%}
-> ...we are failing the people and causes that need us the most.
-:::
-::::::
-
--- Brianna Pagán, Technical Program Lead @ Development Seed, ex-NASA Deputy DAAC Manager
-
-:::notes
-> I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
-> processing pipelines, I help manage one of the NASA satellite data centers, I teach
-> courses on climate resilience, adaptation and geoinformatics. […] and yet the irony is
-> that with all my experience I could not access the information I knew existed to help
-> our community.
-
-End-quote. You can read Brianna's full story by following the link at the top of the slide.
-:::
