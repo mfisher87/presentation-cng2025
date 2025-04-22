@@ -55,9 +55,15 @@ confidently engage with geospatial data.
 
 :::notes
 A common point of confusion is the name GeoJupyter vs JupyterGIS.
+
 **GeoJupyter** is a community; our interest includes but **is not limited to** GIS.
-**JupyterGIS** is a GIS platform in JupyterLab that can be used in some similar ways to QGIS.
+
+**JupyterGIS** is our flagship project; a GIS platform in JupyterLab that can be used in some similar ways to QGIS.
 We'll talk more about JupyterGIS shortly.
+
+But our work is far from limited to JupyterGIS; not everything we build is going to be a
+huge project.
+It depends on what our community (that's you!) tells us they need.
 :::
 
 
