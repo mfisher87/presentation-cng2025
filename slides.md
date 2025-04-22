@@ -232,6 +232,7 @@ The _GeoJupyter_ flagship project...
 
 ## How you can help
 
+* :studio_microphone: [Sign up for an interview](https://geojupyter.org/interviews/sign-up)!
 * :test_tube: Try JupyterGIS! Where does it meet your needs? Where does it fall short?
 * :memo: Report bugs, request features!
 * :gift: Open Pull Requests!
