@@ -73,29 +73,6 @@ We'll talk more about JupyterGIS shortly.
 
 ## :shrug: Why GeoJupyter?
 
-[_When our community burned, where was the satellite information?_](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
-
-::::::columns
-:::{.column width=25%}
-![](/assets/images/brianna-pagan.png)
-:::
-
-:::{.column width=75%}
-> ...we are failing the people and causes that need us the most.
-:::
-::::::
-
--- Brianna Pagán, Technical Program Lead @ Development Seed, ex-NASA Deputy DAAC Manager
-
-:::notes
-> I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
-> processing pipelines, I help manage one of the NASA satellite data centers, I teach
-> courses on climate resilience, adaptation and geoinformatics. […] and yet the irony is
-> that with all my experience I could not access the information I knew existed to help
-> our community.
-
-End-quote. You can read her full story by following the link at the top of the slide.
-:::
 
 
 # :tada: Bonus slides
@@ -116,3 +93,30 @@ End-quote. You can read her full story by following the link at the top of the s
 * :coffee: JavaScript map engines & cloud-native data support
 * :hole: What gaps or friction you see in the open source geospatial ecosystem
 * :stop_sign: What's stopping your team from integrating JupyterGIS in your workflows
+
+
+## Brianna's story
+
+[_When our community burned, where was the satellite information?_](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
+
+::::::columns
+:::{.column width=25%}
+![](/assets/images/brianna-pagan.jpg)
+:::
+
+:::{.column width=75%}
+> ...we are failing the people and causes that need us the most.
+:::
+::::::
+
+-- Brianna Pagán, Technical Program Lead @ Development Seed, ex-NASA Deputy DAAC Manager
+
+:::notes
+> I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
+> processing pipelines, I help manage one of the NASA satellite data centers, I teach
+> courses on climate resilience, adaptation and geoinformatics. […] and yet the irony is
+> that with all my experience I could not access the information I knew existed to help
+> our community.
+
+End-quote. You can read Brianna's full story by following the link at the top of the slide.
+:::
