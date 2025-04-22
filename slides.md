@@ -9,33 +9,12 @@ title-slide-attributes:
 format: "revealjs"
 ---
 
-## Outline {.scrollable}
+## Outline
 
-### What is GeoJupyter?
-
-1. ~~Values~~
-2. ~~Objectives~~
-3. ~~Gaps in the existing ecosystem~~
-    a. ~~Visualization (GIS Bounce)~~
-    b. ~~Linked visualization~~
-    c. ~~Vertical landscapes visualization~~
-    d. ~~Saving, repeating, and sharing layouts &amp; symbology~~
-
-
-### What is JupyterGIS?
-1. ~~What makes it unique?~~
-2. ?
-3. ~~Demo~~
-
-
-### Why you should get involved
-
-### How you can get involved
-
-1. Put JupyterGIS in front of more users
-2. Contribute your needs and experiences
-3. Contribute code
-4. Contribute vibes
+1. What is GeoJupyter?
+2. Why GeoJupyter?
+3. **Why you should get involved**
+4. How you can get involved
 
 
 ## QR code self-link
