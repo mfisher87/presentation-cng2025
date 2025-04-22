@@ -143,11 +143,65 @@ explore(my_geodataframe)
 ::::::
 
 
+## :shrug: Why GeoJupyter?
+
+:face_with_head_bandage: Existing workflows have some painful gaps:
+
+* [~~Friction when visualizing from a programming environment~~]{.fade}
+* Linked visualizations are difficult to build
+* [Lack of tools for visualizing vertical landscapes]{.fade}
+* [Repeatable GIS layouts and symbology]{.fade}
+
+
 ## TODO: Linked visualizations
+
+
+## :shrug: Why GeoJupyter?
+
+:face_with_head_bandage: Existing workflows have some painful gaps:
+
+* [~~Friction when visualizing from a programming environment~~]{.fade}
+* [~~Linked visualizations are difficult to build~~]{.fade}
+* Lack of tools for visualizing vertical landscapes
+* [Repeatable GIS layouts and symbology]{.fade}
 
 ## TODO: Vertical landscapes
 
+
+## :shrug: Why GeoJupyter?
+
+:face_with_head_bandage: Existing workflows have some painful gaps:
+
+* [~~Friction when visualizing from a programming environment~~]{.fade}
+* [~~Linked visualizations are difficult to build~~]{.fade}
+* [~~Lack of tools for visualizing vertical landscapes~~]{.fade}
+* Repeatable GIS layouts and symbology
+
+
 ## TODO: Repeatable GIS layouts and symbology
+
+
+## :shrug: Why GeoJupyter?
+
+:face_with_head_bandage: Existing workflows have some painful gaps:
+
+* [~~Friction when visualizing from a programming environment~~]{.fade}
+* [~~Linked visualizations are difficult to build~~]{.fade}
+* [~~Lack of tools for visualizing vertical landscapes~~]{.fade}
+* [~~Repeatable GIS layouts and symbology~~]{.fade}
+
+_And much, much more!!_
+
+:::notes
+The landscape of open source geospatial tools is far from perfect.
+
+What we are attempting to bring to the table is a holistic approach to evaluating and
+improving this landscape.
+To achieve this, we're taking a human-centric approach to finding and addressing these
+gaps.
+So far we've conducted dozens of hours of user interviews to understand what folks need
+most, and we'll continue to use the input of real people to guide our priorities.
+:::
 
 # JupyterGIS
 
