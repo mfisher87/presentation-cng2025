@@ -264,11 +264,18 @@ The _GeoJupyter_ flagship project...
 ## How you can help
 
 * :studio_microphone: [Sign up for an interview](https://geojupyter.org/interviews/sign-up)!
-* :test_tube: Try JupyterGIS! Where does it meet your needs? Where does it fall short?
-* :memo: Report bugs, request features!
-* :gift: Open Pull Requests!
-* :ballot_box: Help develop and operate community governance and scaffolding!
-* :sunglasses: Contribute awesome vibes to our community!
+* :test_tube: [Try JupyterGIS!](https://jupytergis.readthedocs.io/) Where does it meet your needs? Where does it fall short?
+* :memo: [Report bugs, request features!](https://github.com/geojupyter/jupytergis/issues)
+* :gift: [Open Pull Requests!](https://github.com/geojupyter/jupytergis)
+* :left_speech_bubble: [Chat with us on Zulip!](https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter)
+* :sunglasses: Contribute your awesome vibes to our community!
+* :ballot_box: Help develop community governance and scaffolding!
+* :moneybag: Fiscal sponsorship!
+
+:::notes
+There are lots of avenues for supporting this work.
+Reach out to me if you're interested in contributing! 
+:::
 
 
 ## View the slides on the web
