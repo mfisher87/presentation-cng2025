@@ -36,18 +36,20 @@ If you missed it, don't worry, I'll leave this slide up at the end.
 <hr />
 
 GeoJupyter is an open and community-driven effort to [reimagine geospatial interactive
-computing experiences]{.jupyter-orange} for education, research, and industry.
-
-We aim to combine the **approachability** and **playfulness** of desktop GIS tools, the
-**flexibility** and **reproducibility** of coding-driven GIS methods, and the **collaborative** and
-**storytelling** power of Jupyter to enable more researchers, educators, and learners to
-confidently engage with geospatial data.
+computing experiences]{.jupyter-orange} to enable **more people to
+confidently engage with geospatial data**.
 
 <hr />
 :::
 
 :::notes
 :::
+
+## Our values
+
+* **Approachability** and **playfulness**, like desktop GIS tools
+* **Flexibility** and **reproducibility**, like coding methods
+* **Collaboration** and **storytelling**, like Jupyter Notebooks
 
 
 ## :people_holding_hands: A communtity!
