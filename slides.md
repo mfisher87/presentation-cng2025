@@ -28,8 +28,9 @@ If you missed it, don't worry, I'll leave this slide up at the end.
 :::
 
 
-## :question: What is GeoJupyter? {.smaller}
+## :question: What is GeoJupyter?
 
+<br />
 <br />
 
 :::elevator-pitch
@@ -43,6 +44,7 @@ confidently engage with geospatial data**.
 :::
 
 :::notes
+_Read the slide_
 :::
 
 ## Our values
