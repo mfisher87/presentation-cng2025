@@ -88,7 +88,7 @@ we're not actively solving all of these problems right now, but we might give it
 :face_with_head_bandage: Existing workflows have some painful gaps:
 
 * Even experts often struggle
-* [Friction when visualizing from a programming environment]{.fade]
+* [Friction when visualizing from a programming environment]{.fade}
 * [Linked visualizations are difficult to build]{.fade}
 * [Lack of tools for visualizing vertical landscapes]{.fade}
 * [Repeatable GIS layouts and symbology]{.fade}
