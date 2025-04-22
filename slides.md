@@ -130,6 +130,15 @@ The _GeoJupyter_ flagship project...
 * :woman_dancing: _The GIS Bounce_ :man_dancing: in JGIS
 
 
+## How you can help
+
+* :test_tube: Try JupyterGIS! Where does it meet your needs? Where does it fall short?
+* :memo: Report bugs, request features!
+* :gift: Open Pull Requests!
+* :ballot_box: Help develop and operate community governance and scaffolding!
+* :sunglasses: Contribute awesome vibes to our community!
+
+
 # :tada: Bonus slides
 
 ## :handshake: I want to talk to you! {.smaller}
