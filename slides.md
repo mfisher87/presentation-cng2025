@@ -23,9 +23,9 @@ format: "revealjs"
 
 
 ### What is JupyterGIS?
-1. What makes it unique?
+1. ~~What makes it unique?~~
 2. ?
-3. Demo
+3. ~~Demo~~
 
 
 ### Why you should get involved
@@ -94,6 +94,32 @@ we're not actively solving all of these problems right now, but we might give it
 ## TODO: Vertical landscapes
 
 ## TODO: Repeatable GIS layouts and symbology
+
+# JupyterGIS
+
+:bangbang: Early development :bangbang:
+
+:::notes
+The _GeoJupyter_ flagship project...
+:::
+
+
+## What is it? How is it different?
+
+:::incremental
+* Interactive GIS environment
+* JupyterLab-native (try it in a JupyterHub!)
+* Python API
+* Supports QGIS project files
+* **_Real-time collaboration!_**
+:::
+
+
+## Demo
+
+* GIS environment features: layers, identify, time slider
+* Collab features: Nick assist?
+* :woman_dancing: _The GIS Bounce_ :man_dancing: in JGIS
 
 
 # :tada: Bonus slides
