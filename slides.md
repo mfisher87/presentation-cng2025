@@ -153,6 +153,7 @@ End-quote. You can read Brianna's full story by following the link at the top of
 ::::::
 
 
+<!-- alex ignore easy -->
 ## :woman_dancing: _The GIS Bounce_ :man_dancing: (easy mode)
 
 ::::::columns
@@ -277,7 +278,7 @@ The _GeoJupyter_ flagship project...
 
 :::notes
 There are lots of avenues for supporting this work.
-Reach out to me if you're interested in contributing! 
+Reach out to me if you're interested in contributing!
 :::
 
 
