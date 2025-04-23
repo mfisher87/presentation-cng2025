@@ -97,25 +97,36 @@ If you missed it, don't worry, I'll leave this slide up at the end.
 :::
 
 :::{.column width=33%}
-![](/assets/images/logo-dse.svg){style="background-color: #003262; padding: 20px"}
+![](/assets/images/logo-dse.svg){style="background-color: #003262; width: 100%; padding: 20px"}
 ![](/assets/images/logo-bids.png)
 <center>![](/assets/images/logo-uc-berkeley.png){width=200px}</center>
 :::
 ::::::
 
 :::notes
-First, I'd like the thank the many collaborators involved in this project.
+First, I'm representing a lot of folks today.
+I don't own this, our community does.
+I'd like the thank the many collaborators involved in this project.
 So many people and organizations have come together to make this happen!
 
 <!-- alex ignore special -->
 Special thanks to QuantStack for leading the development of JupyterGIS, and ESA for
 funding them.
 
-And personal thanks to Fernando Pérez and the Schmidt Center for Data Science & Environment
-for hiring me and supporting me to work on this project!
+And personal thanks to Fernando Pérez and the Schmidt Center for Data Science &
+Environment for hiring me and supporting me to work on this project!
 
-I'd like to spend time individually thanking on everyone on this slide, but then my time
+I'd like to spend time individually thanking on everyone, but then my time
 would be over :)
+:::
+
+---
+
+![](/assets/images/role-model.jpg)
+
+:::notes
+Finally, thanks to all the amazing role models in these communities who have inspired me
+to be a better community manager and developer.
 
 **Thank you all.**
 :::
