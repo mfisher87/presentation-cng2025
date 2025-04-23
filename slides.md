@@ -345,18 +345,25 @@ The _GeoJupyter_ flagship project...
 
 ## How you can join
 
-* :studio_microphone: [Sign up for an interview](https://geojupyter.org/interviews/sign-up)!
-* :test_tube: [Try JupyterGIS](https://jupytergis.readthedocs.io/)! Where does it meet your needs? Where does it fall short?
-* :gift: [Report bugs, request features](https://github.com/geojupyter/jupytergis/issues)!
-  [Open Pull Requests](https://github.com/geojupyter/jupytergis)!
-* :left_speech_bubble: [Chat with us on Zulip](https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter)!
-* :sunglasses: Contribute your rad vibes to our community!
-* :compass: Become a community leader!
-* :moneybag: Fiscal sponsorship!
+{{< include how-you-can-join.md >}}
 
 :::notes
 There are lots of avenues for supporting this work.
-Reach out to me if you're interested in contributing!
+
+We'd love to talk to you about your needs, frustrations, and opinions in an interview.
+
+It would be amazing to see you at one of our bi-weekly hackathons or monthly community meetings!
+We also have a community chat on Zulip, which is like an open-source Slack.
+
+JupyterGIS is available for install with `pip`, `conda`, or equivalents, and we're
+jazzed to hear what you think :)
+
+We're excited to expand our **funded** development team, so if your company is
+interested in sponsoring this work, please reach out.
+We still don't know what this will look like, and while GeoJupyter will always be
+community owned, we're ready to work with folks whose goals align with ours.
+
+If you have any questions, you can always reach out to me on Zulip, GitHub, or email.
 :::
 
 

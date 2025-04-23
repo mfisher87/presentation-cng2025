@@ -3,4 +3,11 @@ title: "GeoJupyter @ CNG '25"
 format: "html"
 ---
 
-Check out the slides!
+Thanks for listening to our talk :grin:
+
+:playground_slide: Check out the [slides](/slides.md)!
+
+
+## How you can join our community
+
+{{< include how-you-can-join.md >}}
