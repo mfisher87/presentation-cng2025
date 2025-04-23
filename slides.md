@@ -353,6 +353,8 @@ There are lots of avenues for supporting this work.
 We'd love to talk to you about your needs, frustrations, and opinions in an interview.
 
 It would be amazing to see you at one of our bi-weekly hackathons or monthly community meetings!
+You can view our community calendar on `geojupyter.org` or by following the link on this slide.
+
 We also have a community chat on Zulip, which is like an open-source Slack.
 
 JupyterGIS is available for install with `pip`, `conda`, or equivalents, and we're
