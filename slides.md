@@ -289,7 +289,7 @@ End-quote. You can read Brianna's full story by following the link at the top of
 
 ::::::columns
 :::{.column width=60%}
-:abacus: Do some data analysis
+:abacus: Do some analysis
 
 :snake: Write one line of code!
 
