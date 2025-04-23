@@ -1,7 +1,8 @@
 ---
 title: "🌐 GeoJupyter 🌐<br/>@<br/>🌥️ CNG '25 🌥️"
 subtitle: |
-  TODO
+  TODO: Subtitle
+author: "Matt Fisher, Schmidt DSE @ UC Berkeley"
 title-slide-attributes:
   data-notes: |
     Hi! I'm used to presenting remotely, so I hope you'll forgive my nervousness today.
