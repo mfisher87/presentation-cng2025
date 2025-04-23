@@ -148,7 +148,7 @@ End-quote. You can read Brianna's full story by following the link at the top of
 ## :woman_dancing: _The GIS Bounce_ :man_dancing: (hard mode)
 
 ::::::columns
-:::{.column width=50%}
+:::{.column width=60%}
 * Do some analysis
 * Write out a data file
 * Download it to local machine
@@ -157,7 +157,7 @@ End-quote. You can read Brianna's full story by following the link at the top of
 * :shower: Repeat
 :::
 
-:::{.column width=50%}
+:::{.column width=40%}
 ![](/assets/images/gis-bounce-hard.jpg)
 :::
 ::::::
@@ -167,7 +167,7 @@ End-quote. You can read Brianna's full story by following the link at the top of
 ## :woman_dancing: _The GIS Bounce_ :man_dancing: (easy mode)
 
 ::::::columns
-:::{.column width=50%}
+:::{.column width=60%}
 One line of code! (excluding imports :smirk:)
 
 ```python
@@ -177,7 +177,7 @@ explore(my_geodataframe)
 ```
 :::
 
-:::{.column width=50%}
+:::{.column width=40%}
 ![](/assets/images/gis-bounce-easy.jpg)
 :::
 ::::::
