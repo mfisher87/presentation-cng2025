@@ -118,7 +118,8 @@ A common point of confusion is the name GeoJupyter vs JupyterGIS.
 
 **GeoJupyter** is a community; our interest includes but **is not limited to** GIS.
 
-**JupyterGIS** is our flagship project; a GIS platform in JupyterLab that can be used in some similar ways to QGIS.
+**JupyterGIS** is our flagship project, led by QuantStack;
+a GIS platform in JupyterLab that can be used in some similar ways to QGIS.
 We'll talk more about JupyterGIS shortly.
 
 But our work is far from limited to JupyterGIS; not everything we build is going to be a
@@ -308,9 +309,12 @@ most, and we'll continue to use the input of real people to guide our priorities
 :::
 
 
-# JupyterGIS
+# JupyterGIS {.nostretch}
 
 :bangbang: Early development :bangbang:
+
+![](/assets/images/quantstack-logo.png){width=50%}
+
 
 :::notes
 The _GeoJupyter_ flagship project...
