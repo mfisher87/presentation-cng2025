@@ -49,11 +49,26 @@ interact with the NASA earth science data API.
 :::
 
 
-## View the slides on the web
+## In this talk...
 
-![<https://mfisher87.github.io/presentation-cng2025/>](/assets/images/qr.svg)
+::::::columns
+:::{.column width=50%}
+* What is GeoJupyter?
+* Why GeoJupyter?
+* What is JupyterGIS?
+* How you can join the community
+:::
+
+:::{.column width=50%}
+![[mfisher87.github.io/presentation-cng2025/](https://mfisher87.github.io/presentation-cng2025/)](/assets/images/qr.svg){width=100%}
+:::
+::::::
 
 :::notes
+In this talk, I'm going to introduce the GeoJupyter community and discuss why it exists.
+I'll then introduce and demo the JupyterGIS software.
+Finally, we'll talk about how you can join the community.
+
 These slides are available on the web at this URL, as well as on GitHub.
 If you missed it, don't worry, I'll leave this slide up at the end.
 :::
@@ -336,26 +351,23 @@ Reach out to me if you're interested in contributing!
 :::
 
 
-## View the slides on the web
+## :handshake: I want to talk to you!
 
-![<https://mfisher87.github.io/presentation-cng2025/>](/assets/images/qr.svg)
+:::::::::columns
+::::::{.column width="75%"}
+:::{style="font-size: 70%"}
+{{< include lets-chat.md >}}
+:::
+::::::
+
+::::::{.column width="25%"}
+:::{style="font-size: 90%"}
+![[mfisher87.github.io/presentation-cng2025/](https://mfisher87.github.io/presentation-cng2025/)](/assets/images/qr.svg){width=100%}
+:::
+::::::
+:::::::::
 
 
 # :tada: Bonus slides
 
-## :handshake: I want to talk to you! {.smaller}
-
-### :left_speech_bubble: Ask me about...
-
-* :people_holding_hands: Community engagement stuff
-* :open_hands: Open source stuff
-* :muscle: Accessibility stuff ([earthaccess](https://github.com/nsidc/earthaccess))
-* :package: New Python project/environment management tools (`uv`, `pixi`)
-
-
-### :ear: I want to ask you about...
-
-* :point_up: All that stuff up there
-* :coffee: JavaScript map engines & cloud-native data support
-* :hole: What gaps or friction you see in the open source geospatial ecosystem
-* :stop_sign: What's stopping your team from integrating JupyterGIS in your workflows
+_TODO_
