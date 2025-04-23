@@ -79,6 +79,47 @@ If you missed it, don't worry, I'll leave this slide up at the end.
 :::
 
 
+## Thank you
+
+::::::columns
+:::{.column width=33%}
+![](/assets/images/logo-quantstack.png)
+![](/assets/images/logo-esa.png)
+![](/assets/images/logo-devseed.png)
+<center>![](/assets/images/logo-2i2c.png){width=200px}</center>
+:::
+
+:::{.column width=34%}
+![](/assets/images/logo-ut-knoxville.png)
+![](/assets/images/logo-stanford.png)
+<center>![](/assets/images/logo-clark-university.png){width=200px}</center>
+:::
+
+:::{.column width=33%}
+![](/assets/images/logo-dse.svg){style="background-color: #003262; padding: 20px"}
+![](/assets/images/logo-bids.png)
+<center>![](/assets/images/logo-uc-berkeley.png){width=200px}</center>
+:::
+::::::
+
+:::notes
+First, I'd like the thank the many collaborators involved in this project.
+So many people and organizations have come together to make this happen!
+
+<!-- alex ignore special -->
+Special thanks to QuantStack for leading the development of JupyterGIS, and ESA for
+funding them.
+
+And personal thanks to Fernando Pérez and the Schmidt Center for Data Science & Environment
+for hiring me and supporting me to work on this project!
+
+I'd like to spend time individually thanking on everyone on this slide, but then my time
+would be over :)
+
+**Thank you all.**
+:::
+
+
 ## :question: What is GeoJupyter?
 
 <br />
@@ -313,7 +354,7 @@ most, and we'll continue to use the input of real people to guide our priorities
 
 :bangbang: Early development :bangbang:
 
-![](/assets/images/quantstack-logo.png){width=50%}
+![](/assets/images/logo-quantstack.png){width=50%}
 
 
 :::notes
