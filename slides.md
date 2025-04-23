@@ -148,6 +148,8 @@ confidently engage with geospatial data**.
 :::
 
 :::notes
+What is GeoJupyter?
+
 _Read the slide_
 :::
 
@@ -161,6 +163,17 @@ _Read the slide_
 :performing_arts: **Collaboration** and **storytelling**, like Jupyter Notebooks
 :::
 
+:::notes
+It's important to us to create tools that combine the strengths of many amazing existing
+tools.
+
+Desktop GIS tools offer **approachability** and **playfulness**.
+
+Coding methods offer **flexibility** and **reproducibility**.
+
+And the Jupyter ecosystem offers **collaboration** and **storytelling**.
+:::
+
 
 ## :people_holding_hands: It's a communtity!
 
@@ -169,7 +182,8 @@ _Read the slide_
 :::notes
 A common point of confusion is the name GeoJupyter vs JupyterGIS.
 
-**GeoJupyter** is a community; our interest includes but **is not limited to** GIS.
+**GeoJupyter** is a community; our interest includes but **is not limited to** what many
+think of as "GIS".
 
 **JupyterGIS** is our flagship project, led by QuantStack;
 a GIS platform in JupyterLab that can be used in some similar ways to QGIS.
