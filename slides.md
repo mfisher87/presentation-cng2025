@@ -108,17 +108,13 @@ _Read the slide_
 
 ## Our values
 
-<br />
-
+:::evenly-spaced
 :cartwheeling: **Approachability** and **playfulness**, like desktop GIS tools
-
-<br />
 
 :feather: **Flexibility** and **reproducibility**, like coding methods
 
-<br />
-
 :performing_arts: **Collaboration** and **storytelling**, like Jupyter Notebooks
+:::
 
 
 ## :people_holding_hands: It's a communtity!
