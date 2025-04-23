@@ -343,7 +343,7 @@ The _GeoJupyter_ flagship project...
 * :woman_dancing: _The GIS Bounce_ :man_dancing: in JGIS
 
 
-## How you can help
+## How you can join
 
 * :studio_microphone: [Sign up for an interview](https://geojupyter.org/interviews/sign-up)!
 * :test_tube: [Try JupyterGIS](https://jupytergis.readthedocs.io/)! Where does it meet your needs? Where does it fall short?
