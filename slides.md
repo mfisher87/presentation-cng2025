@@ -349,7 +349,7 @@ Reach out to me if you're interested in contributing!
 
 * :people_holding_hands: Community engagement stuff
 * :open_hands: Open source stuff
-* :muscle: Accessibility stuff
+* :muscle: Accessibility stuff ([earthaccess](https://github.com/nsidc/earthaccess))
 * :package: New Python project/environment management tools (`uv`, `pixi`)
 
 
