@@ -149,12 +149,17 @@ End-quote. You can read Brianna's full story by following the link at the top of
 
 ::::::columns
 :::{.column width=60%}
-* Do some analysis
-* Write out a data file
-* Download it to local machine
-* Open QGIS, load basemap, load data file
-* Validate, inspect, explore
-* :shower: Repeat
+:abacus: Do some analysis
+
+:floppy_disk: Write out a data file
+
+:inbox_tray: Download it to local machine
+
+:world_map: Open QGIS, load basemap, load data file
+
+:eyes: Validate, inspect, explore
+
+:shower: Repeat
 :::
 
 :::{.column width=40%}
@@ -168,13 +173,21 @@ End-quote. You can read Brianna's full story by following the link at the top of
 
 ::::::columns
 :::{.column width=60%}
-One line of code! (excluding imports :smirk:)
+:abacus: Do some data analysis
+
+:snake: Write one line of code!
+
+(Imports don't count :smirk:)
 
 ```python
 from jupytergis import explore
 
 explore(my_geodataframe)
 ```
+
+:eyes: Validate, inspect, explore
+
+:shower: Repeat
 :::
 
 :::{.column width=40%}
