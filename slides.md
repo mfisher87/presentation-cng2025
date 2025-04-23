@@ -153,6 +153,7 @@ What is GeoJupyter?
 _Read the slide_
 :::
 
+
 ## Our values
 
 :::evenly-spaced
@@ -395,7 +396,7 @@ The _GeoJupyter_ flagship project...
 * JupyterLab-native (try it in a JupyterHub!)
 * Python API
 * Supports QGIS project files
-* **_Real-time collaboration!_**
+* **_Real-time collaboration_**: like Google Docs, but on a map!
 :::
 
 
