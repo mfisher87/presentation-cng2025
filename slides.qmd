@@ -9,6 +9,34 @@ title-slide-attributes:
 format: "revealjs"
 ---
 
+```{python}
+from IPython.display import Markdown
+
+def why_geojupyter(active: int) -> str:
+  """Display the repeated "Why GeoJupyter" slide content."""
+  items = [
+    "Even experts often struggle",
+    "Friction when visualizing from a programming environment",
+    "Linked visualizations are difficult to build",
+    "Lack of tools for visualizing vertical landscapes",
+    "Repeatable GIS layouts and symbology",
+  ]
+  lst = []
+  for index, item in enumerate(items):
+    if active == -1 or index == active:
+      lst.append(f"* {item}")
+    elif index < active:
+      lst.append(f"* ~~[{item}]{{.fade}}~~")
+    elif index > active:
+      lst.append(f"* [{item}]{{.fade}}")
+
+  return Markdown(f"""
+:face_with_head_bandage: Existing workflows have some painful gaps:
+
+{"\n".join(lst)}
+""")
+```
+
 
 ## :wave: Hi, I'm Matt!
 
@@ -198,13 +226,9 @@ It depends on what our community (that's you!) tells us they need.
 
 ## :shrug: Why GeoJupyter?
 
-:face_with_head_bandage: Existing workflows have some painful gaps:
-
-* Even experts often struggle
-* Friction when visualizing from a programming environment
-* Linked visualizations are difficult to build
-* Lack of tools for visualizing vertical landscapes
-* Repeatable GIS layouts and symbology
+```{python}
+why_geojupyter(-1)
+```
 
 :::notes
 These are only a few examples we've heard from geospatial practitioners;
@@ -214,13 +238,9 @@ we're not actively solving all of these problems right now, but we might give it
 
 ## :shrug: Why GeoJupyter?
 
-:face_with_head_bandage: Existing workflows have some painful gaps:
-
-* Even experts often struggle
-* [Friction when visualizing from a programming environment]{.fade}
-* [Linked visualizations are difficult to build]{.fade}
-* [Lack of tools for visualizing vertical landscapes]{.fade}
-* [Repeatable GIS layouts and symbology]{.fade}
+```{python}
+why_geojupyter(0)
+```
 
 
 ## Brianna's story
@@ -252,13 +272,9 @@ End-quote. You can read Brianna's full story by following the link at the top of
 
 ## :shrug: Why GeoJupyter?
 
-:face_with_head_bandage: Existing workflows have some painful gaps:
-
-* [~~Even experts often struggle~~]{.fade}
-* Friction when visualizing from a programming environment
-* [Linked visualizations are difficult to build]{.fade}
-* [Lack of tools for visualizing vertical landscapes]{.fade}
-* [Repeatable GIS layouts and symbology]{.fade}
+```{python}
+why_geojupyter(1)
+```
 
 
 ## :woman_dancing: _The GIS Bounce_ :man_dancing: (hard mode)
@@ -314,13 +330,9 @@ explore(my_geodataframe)
 
 ## :shrug: Why GeoJupyter?
 
-:face_with_head_bandage: Existing workflows have some painful gaps:
-
-* [~~Even experts often struggle~~]{.fade}
-* [~~Friction when visualizing from a programming environment~~]{.fade}
-* Linked visualizations are difficult to build
-* [Lack of tools for visualizing vertical landscapes]{.fade}
-* [Repeatable GIS layouts and symbology]{.fade}
+```{python}
+why_geojupyter(2)
+```
 
 
 ## TODO: Linked visualizations
@@ -328,26 +340,19 @@ explore(my_geodataframe)
 
 ## :shrug: Why GeoJupyter?
 
-:face_with_head_bandage: Existing workflows have some painful gaps:
+```{python}
+why_geojupyter(3)
+```
 
-* [~~Even experts often struggle~~]{.fade}
-* [~~Friction when visualizing from a programming environment~~]{.fade}
-* [~~Linked visualizations are difficult to build~~]{.fade}
-* Lack of tools for visualizing vertical landscapes
-* [Repeatable GIS layouts and symbology]{.fade}
 
 ## TODO: Vertical landscapes
 
 
 ## :shrug: Why GeoJupyter?
 
-:face_with_head_bandage: Existing workflows have some painful gaps:
-
-* [~~Even experts often struggle~~]{.fade}
-* [~~Friction when visualizing from a programming environment~~]{.fade}
-* [~~Linked visualizations are difficult to build~~]{.fade}
-* [~~Lack of tools for visualizing vertical landscapes~~]{.fade}
-* Repeatable GIS layouts and symbology
+```{python}
+why_geojupyter(4)
+```
 
 
 ## TODO: Repeatable GIS layouts and symbology
@@ -355,13 +360,9 @@ explore(my_geodataframe)
 
 ## :shrug: Why GeoJupyter?
 
-:face_with_head_bandage: Existing workflows have some painful gaps:
-
-* [~~Even experts often struggle~~]{.fade}
-* [~~Friction when visualizing from a programming environment~~]{.fade}
-* [~~Linked visualizations are difficult to build~~]{.fade}
-* [~~Lack of tools for visualizing vertical landscapes~~]{.fade}
-* [~~Repeatable GIS layouts and symbology~~]{.fade}
+```{python}
+why_geojupyter(5)
+```
 
 _And much, much more!!_
 

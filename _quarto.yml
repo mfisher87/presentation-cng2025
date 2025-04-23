@@ -11,7 +11,7 @@ website:
   navbar:
     left:
       - text: "Slides"
-        href: "slides.md"
+        href: "slides.qmd"
 
 format:
   html:

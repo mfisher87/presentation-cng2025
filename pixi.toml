@@ -11,3 +11,5 @@ render = "quarto render"
 
 [dependencies]
 quarto = ">=1.6.43,<2"
+jupyter = ">=1.1.1,<2"
+python = ">=3.13.3,<3.14"

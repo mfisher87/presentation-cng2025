@@ -28,16 +28,20 @@ repos:
     rev: "v2.2.6"
     hooks:
       - id: "codespell"
-        exclude: ".codespellignore"
+        exclude: |
+          (?x)^(
+            .codespellignore|
+            pixi.lock
+          )$
 
   - repo: "https://github.com/mfisher87/alexjs-pre-commit-mirror"
     rev: "v11.0.1"  # Use the sha / tag you prefer
     hooks:
-    - id: "alex"
-      exclude: |
-        (?x)^(
-            .*.css|
-            pixi.lock|
-            pixi.toml|
-            .pre-commit-config.yaml
-        )$
+      - id: "alex"
+        exclude: |
+          (?x)^(
+              .*.css|
+              pixi.lock|
+              pixi.toml|
+              .pre-commit-config.yaml
+          )$
