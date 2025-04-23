@@ -352,7 +352,7 @@ why_geojupyter(3)
 
 _And much, much more!!_
 
-* Visualizing vertical landscapes
+* Visualizing features of vertical landscapes
 * Repeatable GIS layouts and symbology
 * :question:
 
