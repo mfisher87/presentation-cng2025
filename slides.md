@@ -31,7 +31,6 @@ format: "revealjs"
 :open_hands: Open source maintainer: [earthaccess](https://github.com/nsidc/earthaccess), [viscm](https://github.com/matplotlib/viscm), several conda-forge feedstocks
 :::
 
-
 :::notes
 I'm Matt Fisher, and I'm a Research Software Engineer and Community Engagement
 Manager for GeoJupyter.
