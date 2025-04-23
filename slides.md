@@ -1,5 +1,5 @@
 ---
-title: "🌐 GeoJupyter 🌐<br/>@<br/>☁️ CNG '25 ☁️"
+title: "🌐 GeoJupyter 🌐<br/>@<br/>🌥️ CNG '25 🌥️"
 subtitle: |
   TODO
 title-slide-attributes:
