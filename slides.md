@@ -4,8 +4,7 @@ subtitle: |
   TODO
 title-slide-attributes:
   data-notes: |
-    Hi, I'm Matt Fisher, and I'm a Research Software Engineer and Community Engagement
-    Manager for GeoJupyter.
+    Hi! I'm used to presenting remotely, so I hope you'll forgive my nervousness today.
 format: "revealjs"
 ---
 
@@ -16,6 +15,38 @@ format: "revealjs"
 3. JupyterGIS
 4. **Why you should get involved**
 5. How you can get involved
+
+
+## :wave: Hi, I'm Matt!
+
+:::evenly-spaced
+:computer: Research Software Engineer (RSE)
+
+:people_holding_hands: Community Engagement Manager
+
+:seedling: Working at Schmidt DSE @ UC Berkeley
+
+:snowflake: Previously at National Snow & Ice Data Center (NSIDC)
+
+:open_hands: Open source maintainer: [earthaccess](https://github.com/nsidc/earthaccess), [viscm](https://github.com/matplotlib/viscm), several conda-forge feedstocks
+:::
+
+
+:::notes
+I'm Matt Fisher, and I'm a Research Software Engineer and Community Engagement
+Manager for GeoJupyter.
+
+Before GeoJupyter, I worked in building software for research support and data
+analysis, visualization, management, and access at the National Snow and Ice Data
+Center.
+
+I'm a maintainer of several open source projects.
+Maybe we've spoken on GitHub before!
+_earthaccess_ is another community-owned project I help maintain, one of my favorites.
+It enables access to NASA data in 3 lines of code;
+a huge improvement: before _earthaccess_ you had to write >100 lines to authenticate and
+interact with the NASA earth science data API.
+:::
 
 
 ## View the slides on the web
