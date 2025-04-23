@@ -49,6 +49,20 @@ interact with the NASA earth science data API.
 :::
 
 
+{{< include lets-chat.md >}}
+
+:::notes
+I have lots of stuff I want to talk to you all about!
+I hope we can find each other later and chat :)
+
+Also, if you want to check out these slides and follow the links, they are publicly
+available online.
+
+I'm not going to go through this slide now; I'll show it again at the end, so don't
+worry if you didn't catch the URL.
+:::
+
+
 ## In this talk...
 
 ::::::columns
@@ -351,23 +365,6 @@ Reach out to me if you're interested in contributing!
 :::
 
 
-## :handshake: I want to talk to you!
-
-:::::::::columns
-::::::{.column width="75%"}
-:::{style="font-size: 70%"}
-{{< include lets-chat.md >}}
-:::
-::::::
-
-::::::{.column width="25%"}
-:::{style="font-size: 90%"}
-![[mfisher87.github.io/presentation-cng2025/](https://mfisher87.github.io/presentation-cng2025/)](/assets/images/qr.svg){width=100%}
-:::
-::::::
-:::::::::
-
-
 # :tada: Bonus slides
 
-_TODO_
+{{< include lets-chat.md >}}

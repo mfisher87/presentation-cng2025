@@ -1,3 +1,8 @@
+## :handshake: I want to talk to you!
+
+:::::::::columns
+::::::{.column width="75%"}
+:::{style="font-size: 70%"}
 ### :left_speech_bubble: Ask me about...
 
 :people_holding_hands: Community engagement stuff
@@ -16,3 +21,12 @@
 :hole: What gaps or friction you see in the open source geospatial ecosystem
 
 :stop_sign: What's stopping your team from integrating JupyterGIS in your workflows
+:::
+::::::
+
+::::::{.column width="25%"}
+:::{style="font-size: 90%"}
+![[mfisher87.github.io/presentation-cng2025/](https://mfisher87.github.io/presentation-cng2025/)](/assets/images/qr.svg){width=100%}
+:::
+::::::
+:::::::::
