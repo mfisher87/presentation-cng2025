@@ -299,7 +299,13 @@ why_geojupyter(1)
 ```
 
 
-## TODO: Linked visualizations
+## Linked visualizations
+
+![](/assets/images/jgis-linked-viz.jpg)
+
+:::notes
+TODO
+:::
 
 
 ## :shrug: Why GeoJupyter?
