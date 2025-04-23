@@ -8,14 +8,6 @@ title-slide-attributes:
 format: "revealjs"
 ---
 
-## Outline
-
-1. What is GeoJupyter?
-2. Why GeoJupyter?
-3. JupyterGIS
-4. **Why you should get involved**
-5. How you can get involved
-
 
 ## :wave: Hi, I'm Matt!
 
