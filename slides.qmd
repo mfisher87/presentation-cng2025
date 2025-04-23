@@ -12,26 +12,24 @@ format: "revealjs"
 ```{python}
 from IPython.display import Markdown
 
-def why_geojupyter(active: int) -> str:
+def why_geojupyter(active: int | None = None) -> str:
   """Display the repeated "Why GeoJupyter" slide content."""
   items = [
-    "Even experts often struggle",
     "Friction when visualizing from a programming environment",
     "Linked visualizations are difficult to build",
-    "Lack of tools for visualizing vertical landscapes",
-    "Repeatable GIS layouts and symbology",
+    "Even experts often struggle",
   ]
   lst = []
   for index, item in enumerate(items):
-    if active == -1 or index == active:
+    if active is None or index == active:
       lst.append(f"* {item}")
     elif index < active:
-      lst.append(f"* ~~[{item}]{{.fade}}~~")
+      lst.append(f"* [~~{item}~~]{{.fade}}")
     elif index > active:
       lst.append(f"* [{item}]{{.fade}}")
 
   return Markdown(f"""
-:face_with_head_bandage: Existing workflows have some painful gaps:
+:face_with_head_bandage: Existing workflows are sometimes painfully imperfect:
 
 {"\n".join(lst)}
 """)
@@ -227,7 +225,7 @@ It depends on what our community (that's you!) tells us they need.
 ## :shrug: Why GeoJupyter?
 
 ```{python}
-why_geojupyter(-1)
+why_geojupyter()
 ```
 
 :::notes
@@ -240,40 +238,6 @@ we're not actively solving all of these problems right now, but we might give it
 
 ```{python}
 why_geojupyter(0)
-```
-
-
-## Brianna's story
-
-[_When our community burned, where was the satellite information?_](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
-
-::::::columns
-:::{.column width=25%}
-![](/assets/images/brianna-pagan.jpg)
-:::
-
-:::{.column width=75%}
-> ...we are failing the people and causes that need us the most.
-:::
-::::::
-
--- Brianna Pagán, Technical Program Lead @ Development Seed, ex-NASA Deputy DAAC Manager
-
-:::notes
-> I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
-> processing pipelines, I help manage one of the NASA satellite data centers, I teach
-> courses on climate resilience, adaptation and geoinformatics. […] and yet the irony is
-> that with all my experience I could not access the information I knew existed to help
-> our community.
-
-End-quote. You can read Brianna's full story by following the link at the top of the slide.
-:::
-
-
-## :shrug: Why GeoJupyter?
-
-```{python}
-why_geojupyter(1)
 ```
 
 
@@ -331,7 +295,7 @@ explore(my_geodataframe)
 ## :shrug: Why GeoJupyter?
 
 ```{python}
-why_geojupyter(2)
+why_geojupyter(1)
 ```
 
 
@@ -341,30 +305,48 @@ why_geojupyter(2)
 ## :shrug: Why GeoJupyter?
 
 ```{python}
+why_geojupyter(2)
+```
+
+
+## Brianna's story
+
+[_When our community burned, where was the satellite information?_](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
+
+::::::columns
+:::{.column width=25%}
+![](/assets/images/brianna-pagan.jpg)
+:::
+
+:::{.column width=75%}
+> ...we are failing the people and causes that need us the most.
+:::
+::::::
+
+-- Brianna Pagán, Technical Program Lead @ Development Seed, ex-NASA Deputy DAAC Manager
+
+:::notes
+> I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
+> processing pipelines, I help manage one of the NASA satellite data centers, I teach
+> courses on climate resilience, adaptation and geoinformatics. […] and yet the irony is
+> that with all my experience I could not access the information I knew existed to help
+> our community.
+
+End-quote. You can read Brianna's full story by following the link at the top of the slide.
+:::
+
+
+## :shrug: Why GeoJupyter?
+
+```{python}
 why_geojupyter(3)
 ```
 
-
-## TODO: Vertical landscapes
-
-
-## :shrug: Why GeoJupyter?
-
-```{python}
-why_geojupyter(4)
-```
-
-
-## TODO: Repeatable GIS layouts and symbology
-
-
-## :shrug: Why GeoJupyter?
-
-```{python}
-why_geojupyter(5)
-```
-
 _And much, much more!!_
+
+* Visualizing vertical landscapes
+* Repeatable GIS layouts and symbology
+* :question:
 
 :::notes
 The landscape of open source geospatial tools is far from perfect.
