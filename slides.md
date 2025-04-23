@@ -95,7 +95,7 @@ If you missed it, don't worry, I'll leave this slide up at the end.
 :::elevator-pitch
 <hr />
 
-GeoJupyter is an open and community-driven effort to [reimagine geospatial interactive
+GeoJupyter is an open and community-owned effort to [reimagine geospatial interactive
 computing experiences]{.jupyter-orange} to enable **more people to
 confidently engage with geospatial data**.
 
