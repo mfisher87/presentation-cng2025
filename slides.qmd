@@ -24,9 +24,9 @@ from IPython.display import Markdown
 def why_geojupyter(active: int | None = None) -> str:
   """Display the repeated "Why GeoJupyter" slide content."""
   items = [
-    "Friction when visualizing from a programming environment",
-    "Linked visualizations are difficult to build",
     "Even experts often struggle",
+    "Linked visualizations are difficult to build",
+    "Friction when visualizing from a programming environment",
   ]
   lst = []
   for index, item in enumerate(items):
@@ -257,7 +257,11 @@ why_geojupyter()
 ```
 
 :::notes
-These are only a few examples we've heard from geospatial practitioners;
+Why are we doing this?
+
+Because geospatial is hard.
+
+These are only a few examples of challenges we've heard from geospatial practitioners;
 we're not actively solving all of these problems right now, but we might give it a try eventually!
 :::
 
@@ -266,6 +270,68 @@ we're not actively solving all of these problems right now, but we might give it
 
 ```{python}
 why_geojupyter(0)
+```
+
+:::notes
+Geospatial is hard, even for experts.
+
+We all struggle sometimes.
+:::
+
+
+## Brianna's story
+
+[_When our community burned, where was the satellite information?_](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
+
+::::::columns
+:::{.column width=25%}
+![](/assets/images/brianna-pagan.jpg)
+:::
+
+:::{.column width=75%}
+> ...we are failing the people and causes that need us the most.
+:::
+::::::
+
+-- Brianna Pagán, Technical Program Lead @ Development Seed, ex-NASA Deputy DAAC Manager
+
+:::notes
+<!-- alex ignore her-him he-she fires -->
+Brianna, who you may have heard speak yesterday, lost her home in the recent fires in California.
+When this happened, she was away from home.
+Her first thought, like a true geospatial nerd, was to look at the data.
+In the story linked on this slide, she wrote:
+
+> I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
+> processing pipelines, I help manage one of the NASA satellite data centers, I teach
+> courses on climate resilience, adaptation and geoinformatics. […] and yet the irony is
+> that with all my experience I could not access the information I knew existed to help
+> our community.
+
+End-quote. You can read Brianna's full story by following the link at the top of the slide.
+:::
+
+
+## :shrug: Why GeoJupyter?
+
+```{python}
+why_geojupyter(1)
+```
+
+
+## Linked visualizations
+
+![](/assets/images/jgis-linked-viz.jpg)
+
+:::notes
+TODO
+:::
+
+
+## :shrug: Why GeoJupyter?
+
+```{python}
+why_geojupyter(2)
 ```
 
 
@@ -318,56 +384,6 @@ explore(my_geodataframe)
 ![](/assets/images/gis-bounce-easy.jpg)
 :::
 ::::::
-
-
-## :shrug: Why GeoJupyter?
-
-```{python}
-why_geojupyter(1)
-```
-
-
-## Linked visualizations
-
-![](/assets/images/jgis-linked-viz.jpg)
-
-:::notes
-TODO
-:::
-
-
-## :shrug: Why GeoJupyter?
-
-```{python}
-why_geojupyter(2)
-```
-
-
-## Brianna's story
-
-[_When our community burned, where was the satellite information?_](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
-
-::::::columns
-:::{.column width=25%}
-![](/assets/images/brianna-pagan.jpg)
-:::
-
-:::{.column width=75%}
-> ...we are failing the people and causes that need us the most.
-:::
-::::::
-
--- Brianna Pagán, Technical Program Lead @ Development Seed, ex-NASA Deputy DAAC Manager
-
-:::notes
-> I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
-> processing pipelines, I help manage one of the NASA satellite data centers, I teach
-> courses on climate resilience, adaptation and geoinformatics. […] and yet the irony is
-> that with all my experience I could not access the information I knew existed to help
-> our community.
-
-End-quote. You can read Brianna's full story by following the link at the top of the slide.
-:::
 
 
 ## :shrug: Why GeoJupyter?
