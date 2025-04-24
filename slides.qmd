@@ -8,7 +8,14 @@ authors:
 title-slide-attributes:
   data-notes: |
     Hi! I'm used to presenting remotely, so I hope you'll forgive my nervousness today.
-format: "revealjs"
+format:
+  revealjs:
+    from: "markdown+emoji"
+    theme: "white"
+    css: "assets/css/slides.css"
+    footer: "[Home](/) | [Source](https://github.com/mfisher87/presentation-cng2025) | [geojupyter.org](https://geojupyter.org)"
+    auto-stretch: true
+    slide-number: true
 ---
 
 ```{python}
