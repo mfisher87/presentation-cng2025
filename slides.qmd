@@ -561,6 +561,15 @@ If you have any questions, you can always reach out to me on Zulip, GitHub, or e
 :::
 
 
+# :heart: Thank you! :heart:
+
+:::notes
+Thanks for your time and attention, and I hope to see you around :smile:
+
+_Advance to next slide_
+:::
+
+
 {{< include lets-chat.md >}}
 
 
