@@ -561,6 +561,7 @@ If you have any questions, you can always reach out to me on Zulip, GitHub, or e
 :::
 
 
-# :tada: Bonus slides
-
 {{< include lets-chat.md >}}
+
+
+## :tada: Bonus slides
