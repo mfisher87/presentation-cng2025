@@ -88,35 +88,33 @@ I have lots of stuff I want to talk to you all about!
 I hope we can find each other later and chat :smile:
 
 Also, if you want to check out these slides and follow the links, they are publicly
-available online.
+available online from this QR code or URL.
 
-I'm not going to go through this slide now; I'll show it again at the end, so don't
-worry if you didn't catch the URL.
+I'm not going to go through this slide now; I'll show it again at the end.
 :::
 
 
 ## In this talk...
 
-::::::columns
-:::{.column width=50%}
+:::::::::columns
+::::::{.column width=75%}
 * What is GeoJupyter?
 * Why GeoJupyter?
 * What is JupyterGIS?
 * How you can join the community
-:::
+::::::
 
-:::{.column width=50%}
+::::::{.column width=25%}
+:::{style="font-size: 90%"}
 ![[mfisher87.github.io/presentation-cng2025/](https://mfisher87.github.io/presentation-cng2025/)](/assets/images/qr.svg){width=100%}
 :::
 ::::::
+:::::::::
 
 :::notes
 In this talk, I'm going to introduce the GeoJupyter community and discuss why it exists.
 I'll then introduce and demo the JupyterGIS software.
 Finally, we'll talk about how you can join the community.
-
-These slides are available on the web at this URL, as well as on GitHub.
-If you missed it, don't worry, I'll leave this slide up at the end.
 :::
 
 
