@@ -57,6 +57,8 @@ def why_geojupyter(active: int | None = None) -> str:
 :snowflake: Previously at National Snow & Ice Data Center (NSIDC)
 
 :open_hands: Open source maintainer: [earthaccess](https://github.com/nsidc/earthaccess), [viscm](https://github.com/matplotlib/viscm), several conda-forge feedstocks
+
+:dog: :seedling: :notes: :musical_keyboard: :drum:
 :::
 
 :::notes
@@ -74,6 +76,8 @@ It's one of my favorites.
 It enables access to NASA data in 3 lines of code;
 a huge improvement: before _earthaccess_ you had to write >100 lines to authenticate and
 interact with the NASA earth science data API.
+
+I also love dogs, gardening, and amateurishly playing music on drums and keyboards :)
 :::
 
 
