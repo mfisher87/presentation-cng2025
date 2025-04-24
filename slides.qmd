@@ -186,6 +186,11 @@ confidently engage with geospatial data**.
 What is GeoJupyter?
 
 _Read the slide_
+
+Our mission is intentionally really broad.
+What does it look like to you to **enable more people to confidently engage with geospatial data**?
+
+We want to hear from you, and I'll share how you can do that at the end.
 :::
 
 
