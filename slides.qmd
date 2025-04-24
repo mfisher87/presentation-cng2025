@@ -216,6 +216,17 @@ And the Jupyter ecosystem offers **collaboration** and **storytelling**.
 :::
 
 
+---
+
+![You got your chocolate in my peanut butter!](/assets/images/chocolate-peanut-butter.jpg)
+
+:::notes
+These values belong together!
+
+But it's not going to happen by accident, like the Reese's Peanut Butter Cups commercial :)
+:::
+
+
 ## :people_holding_hands: It's a communtity!
 
 ![GeoJupyter is **not** software; it's a **community** which will build many things!](/assets/images/venn-diagram.svg)
