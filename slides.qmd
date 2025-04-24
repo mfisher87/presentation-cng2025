@@ -456,10 +456,11 @@ JupyterGIS is the _GeoJupyter_ flagship project, with development led by the ama
 ## What is it? How is it different?
 
 :::incremental
-* Interactive GIS environment that feels like QGIS
+* Interactive GIS environment
 * JupyterLab-native (try it in a JupyterHub!)
 * Python API
 * Supports QGIS project files
+* Coming soon: STAC browser!
 * **_Real-time collaboration_**: like Google Docs, but on a map!
 :::
 
