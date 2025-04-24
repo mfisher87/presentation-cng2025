@@ -69,7 +69,8 @@ Center.
 
 I'm a maintainer of several open source projects.
 Maybe we've spoken on GitHub before!
-_earthaccess_ is another community-owned project I help maintain, one of my favorites.
+_earthaccess_ is another community-owned project I help maintain.
+It's one of my favorites.
 It enables access to NASA data in 3 lines of code;
 a huge improvement: before _earthaccess_ you had to write >100 lines to authenticate and
 interact with the NASA earth science data API.
