@@ -77,7 +77,7 @@ It enables access to NASA data in 3 lines of code;
 a huge improvement: before _earthaccess_ you had to write >100 lines to authenticate and
 interact with the NASA earth science data API.
 
-I also love dogs, gardening, and amateurishly playing music on drums and keyboards :)
+I also love dogs (if you see one, let me know :grin:), gardening, and amateurishly playing music on drums and keyboards :smile:
 :::
 
 
@@ -85,7 +85,7 @@ I also love dogs, gardening, and amateurishly playing music on drums and keyboar
 
 :::notes
 I have lots of stuff I want to talk to you all about!
-I hope we can find each other later and chat :)
+I hope we can find each other later and chat :smile:
 
 Also, if you want to check out these slides and follow the links, they are publicly
 available online.
@@ -157,7 +157,7 @@ And personal thanks to Fernando Pérez and the Schmidt Center for Data Science &
 Environment for hiring me and supporting me to work on this project!
 
 I'd like to spend time individually thanking on everyone, but then my time
-would be over :)
+would be over :smile:
 :::
 
 ---
@@ -228,7 +228,7 @@ And the Jupyter ecosystem offers **collaboration** and **storytelling**.
 :::notes
 These values belong together!
 
-But it's not going to happen by accident, like the Reese's Peanut Butter Cups commercial :)
+But it's not going to happen by accident, like the Reese's Peanut Butter Cups commercial :smile:
 :::
 
 
@@ -441,7 +441,7 @@ You can view our community calendar on `geojupyter.org` or by following the link
 We also have a community chat on Zulip, which is like an open-source Slack.
 
 JupyterGIS is available for install with `pip`, `conda`, or equivalents, and we're
-jazzed to hear what you think :)
+jazzed to hear what you think :smile:
 
 We're excited to expand our **funded** development team, so if your company is
 interested in sponsoring this work, please reach out.
