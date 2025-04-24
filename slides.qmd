@@ -471,13 +471,16 @@ _Read the slide_
 
 ## Demo
 
+<https://jupytergis.readthedocs.io/en/latest/lite/lab/>
+
+_TODO: Link to infra_
+
 * GIS environment features: layers, identify, time slider
 * :woman_dancing: _The GIS Bounce_ :man_dancing: in JGIS
 * Collab features: Nick assist?
 
 :::notes
-Demo script:
-
+_Open in private window:_
 <https://jupytergis.readthedocs.io/en/latest/lite/lab/>
 
 * _Open `france_hiking.jGIS` from JupyterLab file explorer._
