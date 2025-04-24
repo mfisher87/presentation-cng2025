@@ -539,7 +539,7 @@ Looks like someone is trying to collaborate with me right now...
 {{< include how-you-can-join.md >}}
 
 :::notes
-There are lots of avenues for supporting this work.
+There are lots of ways you can join our community and be a part of this mission.
 
 We'd love to talk to you about your needs, frustrations, and opinions in an interview.
 
@@ -553,8 +553,9 @@ jazzed to hear what you think :smile:
 
 We're excited to expand our **funded** development team, so if your company is
 interested in sponsoring this work, please reach out.
-We still don't know what this will look like, and while GeoJupyter will always be
-community owned, we're ready to work with folks whose goals align with ours.
+We are still exploring what this will look like, and while GeoJupyter will
+always be community owned, we're ready to work with folks whose goals align
+with ours.
 
 If you have any questions, you can always reach out to me on Zulip, GitHub, or email.
 :::
