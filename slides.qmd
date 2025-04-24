@@ -447,18 +447,24 @@ There's lots more to do, and we want to hear what's important to you.
 
 
 :::notes
-The _GeoJupyter_ flagship project...
+Let's talk about some of the work in progress now!
+
+JupyterGIS is the _GeoJupyter_ flagship project, with development led by the amazing folks at QuantStack.
 :::
 
 
 ## What is it? How is it different?
 
 :::incremental
-* Interactive GIS environment
+* Interactive GIS environment that feels like QGIS
 * JupyterLab-native (try it in a JupyterHub!)
 * Python API
 * Supports QGIS project files
 * **_Real-time collaboration_**: like Google Docs, but on a map!
+:::
+
+:::notes
+_Read the slide_
 :::
 
 
