@@ -478,7 +478,12 @@ _Open in private window:_
 <https://jupytergis.readthedocs.io/en/latest/lite/lab/>
 
 * _Open `france_hiking.jGIS` from JupyterLab file explorer._
+  * This example JupyterGIS project file and many more are distributed with
+    JupyterGIS, and you can check it out in your browser with JupyterLite from
+    the "Try it now!" link in our README and docs.
   * This map shows hiking trails in France.
+  * It's a bit noisy right now, so let's get rid of this MODIS layer.
+* _Right click NAGAGIBS layer, remove._
   * Let's add a layer that shows where Strava users are running.
 * _Open the layer browser._
   * Our layer browser has a bunch of pre-defined layers you can add to your map
