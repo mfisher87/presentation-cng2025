@@ -505,6 +505,8 @@ Let's look at some earthquakes data.
 * _Scrub with slider._
   * And let's animate it at 10 FPS.
 * _Select 10FPS, press play._
+  * Folks have requested that we don't hide past data points, and I love that idea.
+    That's the beauty of open source; anyone can make help improve the product!
 
 Now, let's look at "The GIS Bounce".
 
