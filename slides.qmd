@@ -181,6 +181,8 @@ We want to hear from you, and I'll share how you can do that at the end.
 ## Our values
 
 :::evenly-spaced
+:open_hands: **Open source** - geospatial data is important to everyone!
+
 :cartwheeling: **Approachability** and **playfulness**, like desktop GIS tools
 
 :feather: **Flexibility** and **reproducibility**, like coding methods
@@ -189,8 +191,11 @@ We want to hear from you, and I'll share how you can do that at the end.
 :::
 
 :::notes
-It's important to us to create tools that combine the strengths of many amazing existing
-tools.
+Open source is a critical value for us; we want to **democratize** geospatial
+data practice, so everything we do is free and open.
+
+And it's important to us to create tools that combine the strengths of many
+amazing existing tools.
 
 Desktop GIS tools offer **approachability** and **playfulness**.
 
