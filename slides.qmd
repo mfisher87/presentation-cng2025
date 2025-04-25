@@ -582,3 +582,12 @@ _Advance to next slide_
 ---
 
 {{< include logos.md >}}
+
+
+## FAQ {.smaller}
+
+* What about _\<existing tool\>_?
+  * We understand we're the "new kids on the block" and we're coming in hot.
+  * We are interested in building on the amazing progress of recent decades and learning lessons from modern users.
+  * Understanding geographic space and scale is centuries in the making, bigger
+    than any company or project, including ours. 
