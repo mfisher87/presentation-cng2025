@@ -266,7 +266,8 @@ gaps.
 So far we've conducted dozens of hours of user interviews to understand what folks need
 most, and we'll continue to use the input of real people to guide our priorities.
 
-These are only a few examples of challenges we've heard from geospatial practitioners.
+These are only a few examples of challenges and points of workflow friction
+we've heard from those geospatial practitioners.
 :::
 
 
