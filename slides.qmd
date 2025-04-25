@@ -481,9 +481,9 @@ _Open in private window:_
 First, let's look at "The GIS Bounce" we talked about earlier.
 
 * _Open `explore.jgis`._
-  * This notebook explores a dataset about the practice of "redlining", in
-    which a government agency graded neighborhoods to enable financial
-    discrimination on the basis of race.
+  * This notebook explores a dataset about the discrimatory practice of
+    "redlining", in which a government agency graded neighborhoods to
+    financially exclude  people on the basis of race.
 * _Run the notebook cell by cell, except the final cell_
   * We've got some data and we want to validate it.
   * Calling `.plot()` doesn't get us very far; it would be challenging to verify the data is properly geolocated without a basemap.
