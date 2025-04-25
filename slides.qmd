@@ -406,7 +406,8 @@ explore(my_geodataframe)
 
 :::notes
 So we developed an API for this, the `explore()` function.
-It's currently a work in progress, but it enables the user to pass a data structure directly to a visualization environment.
+It's currently a work in progress, but it enables the user to pass a data
+structure directly to a visualization environment with **one line of code**.
 We'll show more shortly!
 :::
 
