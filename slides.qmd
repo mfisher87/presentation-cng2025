@@ -584,14 +584,15 @@ _Advance to next slide_
 {{< include logos.md >}}
 
 
-## FAQ {.smaller}
+## FAQ {.smaller .scrollable}
 
-* What about _\<existing tool\>_?
-  * We understand we're the "new kids on the block" and we're coming in hot.
+* :neutral_face: What about _\<existing tool\>_?
+  * :fire: We understand we're the "new kids on the block" and we're coming in hot.
   * We are interested in building on the amazing progress of recent decades and
     learning lessons from modern users.
   * Understanding geographic space and scale is centuries in the making, bigger
     than any company or project, including ours. 
-* Timeline?
+* :stopwatch: Timeline?
+  * :sparkles: [JupyterGIS available to install right now](https://jupytergis.readthedocs.io/en/latest/user_guide/install.html)!
   * :shrug: It depends! We're listening to users to identify priorities.
   * STAC browser expected this year.
