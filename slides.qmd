@@ -429,9 +429,11 @@ why_geojupyter(3)
 
 _And much, much more!!_
 
+:::{style="font-size: 80%"}
 * Visualizing features of vertical landscapes
 * Repeatable GIS layer structure and symbology
 * :question:
+:::
 
 :::notes
 The landscape of open source geospatial tools is far from perfect.
