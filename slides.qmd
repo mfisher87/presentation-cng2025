@@ -493,10 +493,13 @@ _Open in private window:_
   * Still a bit hard to read, let's change the opacity.
 * _Set opacity of "Waymarked" to 1._
 
-Let's look at some earthquakes data.
+Let's change it up and look at some earthquakes data.
 
 <!-- alex ignore color -->
-* _Open "earthquakes.jgis"._
+* _Click `+`, "Add Vector Layer", "Add GeoJSON Layer".
+* Browse; select `eq.json`.
+* Zoom way out.
+* Activate the identify tool.
   * We have an "identify" tool that enables you to view attributes of these features.
 * _Select a feature._
   * We can see the earthquake's magnitude and timestamp. It'd be nice to visualize this.
