@@ -245,7 +245,7 @@ Why are we doing this?
 
 Because geospatial is hard.
 
-What we are attempting to bring to the table is a holistic approach to evaluating and
+What we are bringing to the table is a holistic approach to evaluating and
 improving this landscape.
 To achieve this, we're taking a human-centric approach to finding and addressing these
 gaps.
