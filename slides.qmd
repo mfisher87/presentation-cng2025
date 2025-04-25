@@ -171,6 +171,11 @@ What is GeoJupyter?
 
 _Read the slide_
 
+**Jupyter** is a very mature community with millions of users that has already
+made huge strides in making programming more accessible to the world. and
+It also provides a powerful architecture for interactive and real-time collaborative
+development environments.
+
 Our mission is intentionally really broad.
 What does it look like to you to **enable more people to confidently engage with geospatial data**?
 
@@ -456,10 +461,6 @@ JupyterGIS is the _GeoJupyter_ flagship project, with development led by the ama
 
 :::notes
 _Read the slide_
-
-**Jupyter** has made programming more accessible to the world, and provides a
-powerful base for interactive and real-time collaborative development environments, which
-is why we chose to build this as a JupyterLab extension.
 :::
 
 
