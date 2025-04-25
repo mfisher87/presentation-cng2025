@@ -592,3 +592,6 @@ _Advance to next slide_
     learning lessons from modern users.
   * Understanding geographic space and scale is centuries in the making, bigger
     than any company or project, including ours. 
+* Timeline?
+  * :shrug: It depends! We're listening to users to identify priorities.
+  * STAC browser expected this year.
