@@ -476,7 +476,29 @@ _Read the slide_
 
 :::notes
 _Open in private window:_
-<https://jupytergis.readthedocs.io/en/latest/lite/lab/>
+<http://34.71.209.73:8888/>
+
+First, let's look at "The GIS Bounce" we talked about earlier.
+
+* _Open `explore.jgis`._
+  * This notebook explores a dataset about the practice of "redlining", in
+    which a government agency graded neighborhoods to enable financial
+    discrimination on the basis of race.
+* _Run the notebook cell by cell, except the final cell_
+  * We've got some data and we want to validate it.
+  * Calling `.plot()` doesn't get us very far; it would be challenging to verify the data is properly geolocated without a basemap.
+  * We would need to write more code to inspect the features' attributes.
+  * That's where the `explore()` function comes in!
+  * We can write only one line of code, excluding imports, to interact with this data much like we would in QGIS.
+* _Run final cell. Right click the "New Haven" layer, zoom to it._
+  * The geolocation looks good.
+  * Let's inspect the features and be sure those look the way we expect, too.
+  * We can see that this neighborhood was ranked "A" ("best") because it was mostly white.
+  * Now we can go back to our analysis. We can close it and re-open it again later.
+  * Or, because this visualizer is in a JupyterLab window, we can move it around and scale it however we like.
+* _Move the window to a bottom pane and scale it way down._
+
+Let's explore some example JupyterGIS projects.
 
 * _Open `france_hiking.jGIS` from JupyterLab file explorer._
   * This example JupyterGIS project file and many more are distributed with
@@ -516,22 +538,6 @@ Let's change it up and look at some earthquakes data.
 * _Select 10FPS, press play._
   * Folks have requested that we don't hide past data points, and I love that idea.
     That's the beauty of open source; anyone can make help improve the product!
-
-Now, let's look at "The GIS Bounce".
-
-* _Open `explore.jgis`._
-* _Run the notebook cell by cell, except the final cell_
-  * We've got some data and we want to validate it.
-  * Calling `.plot()` doesn't get us very far; it would be challenging to verify the data is properly geolocated without a basemap.
-  * We would need to write more code to inspect the features' attributes.
-  * That's where the `explore()` function comes in!
-  * We can write only one line of code, excluding imports, to interact with this data much like we would in QGIS.
-* _Run final cell. Right click the "New Haven" layer, zoom to it._
-  * The geolocation looks good.
-  * Let's inspect the features and be sure those look the way we expect, too.
-  * Looks good!
-  * Now we can go back to our analysis. We can close it and re-open it again later.
-  * Or, because this visualizer is in a JupyterLab window, we can move it around and scale it however we like.
 
 Looks like someone is trying to collaborate with me right now...
 
