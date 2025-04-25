@@ -465,9 +465,9 @@ is why we chose to build this as a JupyterLab extension.
 
 ## Demo
 
-<https://jupytergis.readthedocs.io/en/latest/lite/lab/>
+:bulb: Lite: <https://jupytergis.readthedocs.io/en/latest/lite/lab/>
 
-_TODO: Link to infra_
+:test_tube: Lab: <http://34.71.209.73:8888/>
 
 * GIS environment features: layers, identify, time slider
 * :woman_dancing: _The GIS Bounce_ :man_dancing: in JGIS
@@ -534,7 +534,18 @@ Now, let's look at "The GIS Bounce".
 
 Looks like someone is trying to collaborate with me right now...
 
-* TODO: Collaboration demo here
+* Nick: Disable the hiking and running layers
+* Nick: Add `WaymarkedTrails.Slopes` layer
+* Nick: Add an annotation at the base of a trail "Let's meet here at **Aerial Tram** on Friday"
+* Matt: Looks someone's trying to collaborate with me! Who's that?
+* Nick: Raise hand!
+* Matt: That's Nick, my co-worker. Looks like he's having trouble focusing on
+  my talk and looking forward to some skiing :)
+* Matt: **Follow Nick**.
+* Matt: Respond to annotation: "Sounds awesome! Meet you there."
+* Nick: Add another annotation for a run from the top of **Aerial Tram**, let's
+  take **Chip's run** down to the hotel.
+* Matt: Respond to annotation: Rad!
 :::
 
 
