@@ -356,28 +356,29 @@ We heard this so often that we gave it a name: "The GIS Bounce".
 ## :woman_dancing: _The GIS Bounce_ :man_dancing: (hard mode)
 
 ::::::columns
-:::{.column width=60%}
+:::{.column width=65%}
 :abacus: Do some analysis
 
 :floppy_disk: Write out a data file
 
 :inbox_tray: Download it to local machine
 
-:world_map: Open QGIS, load basemap, load data file
+:world_map: "Bounce" to QGIS, load basemap, load data file
 
 :eyes: Validate, inspect, explore
 
-:shower: Repeat
+:shower: "Bounce" back to Notebook and repeat
 :::
 
-:::{.column width=40%}
+:::{.column width=35%}
 ![](/assets/images/gis-bounce-hard.jpg)
 :::
 ::::::
 
 :::notes
-First, do some analysis. Then, write out a data file. Download it. Open it in
-in QGIS, alongside a basemap. Now you can do your validation.
+First, do some analysis. Then, write out a data file. Download it.
+"Bounce" over to QGIS, and open your data alongside a basemap.
+Now you can do your validation and "bounce" back to your notebook, and repeat!
 
 That's a lot of steps, and they are repeated every time a practitioner does a
 critical task: checking their work. It doesn't have to be this way!
@@ -390,10 +391,10 @@ Checking your work should be seamless and joyful.
 ## :woman_dancing: _The GIS Bounce_ :man_dancing: (easy mode)
 
 ::::::columns
-:::{.column width=60%}
+:::{.column width=65%}
 :abacus: Do some analysis
 
-:snake: Write one line of code!
+:snake: "Bounce" to JGIS: one line of code!
 
 (Imports don't count :smirk:)
 
@@ -405,10 +406,10 @@ explore(my_geodataframe)
 
 :eyes: Validate, inspect, explore
 
-:shower: Repeat
+:shower: "Bounce" back to Notebook and repeat
 :::
 
-:::{.column width=40%}
+:::{.column width=35%}
 ![](/assets/images/gis-bounce-easy.jpg)
 :::
 ::::::
