@@ -476,7 +476,7 @@ _Open in private window:_
   * This map shows hiking trails in France.
   * Let's add a layer that shows where Strava users are running.
 * _Open the layer browser._
-  * Our layer browser has some pre-defined layers you can add to your map
+  * Our layer browser has a bunch of pre-defined layers you can add to your map
 * _Add "Strava.Run"._
   * The hiking layer is a bit hard to read now, though, so let's change the layer order.
 * _Move "Strava.Run" underneath "Waymarked"._
