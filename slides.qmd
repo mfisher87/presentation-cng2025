@@ -69,10 +69,8 @@ Before GeoJupyter, I worked in building software for research support and data
 analysis, visualization, management, and access at the National Snow and Ice Data
 Center.
 
-I'm a maintainer of several open source projects.
-Maybe we've spoken on GitHub before!
-_earthaccess_ is another community-owned project I help maintain.
-It's one of my favorites.
+I'm a maintainer of several open source projects, and maybe we've spoken on GitHub before!
+_earthaccess_ is one of my favorite community-owned project I help maintain.
 It enables access to NASA data in 3 lines of code;
 a huge improvement: before _earthaccess_ you had to write >100 lines to authenticate and
 interact with the NASA earth science data API.
