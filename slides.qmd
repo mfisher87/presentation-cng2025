@@ -235,8 +235,6 @@ But it's not going to happen by accident, like the Reese's Peanut Butter Cups co
 ![GeoJupyter is **not** software; it's a **community** which will build many things!](/assets/images/venn-diagram.svg)
 
 :::notes
-A common point of confusion is the name GeoJupyter vs JupyterGIS.
-
 **GeoJupyter** is a community; our interest includes but **is not limited to** what many
 think of as "GIS".
 
