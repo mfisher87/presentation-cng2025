@@ -466,6 +466,10 @@ JupyterGIS is the _GeoJupyter_ flagship project, with development led by the ama
 
 :::notes
 _Read the slide_
+
+**Jupyter** has made programming more accessible to the world, and provides a
+powerful base for interactive and real-time collaborative development environments, which
+is why we chose to build this as a JupyterLab extension.
 :::
 
 
