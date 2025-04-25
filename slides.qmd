@@ -133,8 +133,8 @@ funding them.
 And personal thanks to Fernando Pérez and the Schmidt Center for Data Science &
 Environment for hiring me and supporting me to work on this project!
 
-I'd like to spend time individually thanking on everyone, but then my time
-would be over :smile:
+I'd like to spend time individually thanking everyone, but then my time would
+be over :smile:
 :::
 
 ---
