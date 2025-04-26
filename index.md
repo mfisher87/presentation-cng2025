@@ -1,6 +1,8 @@
 ---
 title: "[GeoJupyter](https://geojupyter.org) @ [CNG '25](https://conference.cloudnativegeo.org/CNGConference2025)"
-format: "html"
+format:
+  html:
+    toc: false
 ---
 
 Thanks for listening to our talk :grin:
