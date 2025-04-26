@@ -475,10 +475,6 @@ _Read the slide_
 
 :test_tube: Lab: <http://34.71.209.73:8888/>
 
-* GIS environment features: layers, identify, time slider
-* :woman_dancing: _The GIS Bounce_ :man_dancing: in JGIS
-* Collab features: Nick assist?
-
 :::notes
 _Open in private window:_
 <http://34.71.209.73:8888/>
@@ -498,6 +494,7 @@ First, let's look at "The GIS Bounce" we talked about earlier.
 * _Run final cell. Right click the "New Haven" layer, zoom to it._
   * The geolocation looks good.
   * Let's inspect the features and be sure those look the way we expect, too.
+  <!-- alex ignore white -->
   * We can see that this neighborhood was ranked "A" ("best") because it was mostly white.
   * Now we can go back to our analysis. We can close it and re-open it again later.
   * Or, because this visualizer is in a JupyterLab window, we can move it around and scale it however we like.
@@ -524,7 +521,7 @@ Let's explore some example JupyterGIS projects.
 Let's change it up and look at some earthquakes data.
 
 <!-- alex ignore color -->
-* _Click `+`, "Add Vector Layer", "Add GeoJSON Layer".
+* _Click `+`, "Add Vector Layer", "Add GeoJSON Layer"._
 * Browse; select `eq.json`.
 * Zoom way out.
 * Activate the identify tool.
@@ -551,7 +548,8 @@ Looks like someone is trying to collaborate with me right now...
 * Nick: Add an annotation at the base of a trail "Let's meet here at **Aerial Tram** on Friday"
 * Matt: Looks someone's trying to collaborate with me! Who's that?
 * Nick: Raise hand!
-* Matt: That's Nick, my co-worker. Looks like he's having trouble focusing on
+<!-- alex ignore he-she -->
+* Matt: That's Nick Gondek, my co-worker. Looks like he's having trouble focusing on
   my talk and looking forward to some skiing :)
 * Matt: **Follow Nick**.
 * Matt: Respond to annotation: "Sounds awesome! Meet you there."
@@ -610,11 +608,13 @@ _Advance to next slide_
 ## FAQ {.smaller .scrollable}
 
 * :neutral_face: What about _\<existing tool\>_?
+  <!-- alex ignore kids -->
   * :fire: We understand we're the "new kids on the block" and we're coming in hot.
   * We are interested in building on the amazing progress of recent decades and
     learning lessons from modern users.
+  <!-- alex ignore bigger -->
   * Understanding geographic space and scale is centuries in the making, bigger
-    than any company or project, including ours. 
+    than any company or project, including ours.
 * :stopwatch: Timeline?
   * :sparkles: [JupyterGIS available to install right now](https://jupytergis.readthedocs.io/en/latest/user_guide/install.html)!
   * :shrug: It depends! We're listening to users to identify priorities.
