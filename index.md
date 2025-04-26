@@ -1,5 +1,5 @@
 ---
-title: "GeoJupyter @ CNG '25"
+title: "[GeoJupyter](https://geojupyter.org) @ [CNG '25](https://conference.cloudnativegeo.org/CNGConference2025)"
 format: "html"
 ---
 
