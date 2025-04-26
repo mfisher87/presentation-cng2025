@@ -315,7 +315,8 @@ why_geojupyter(1)
 ```
 
 :::notes
-TODO
+Another pain point we hear is that folks want to visualize the same data in
+different ways, and have those visualizations interactively linked.
 :::
 
 
@@ -324,7 +325,12 @@ TODO
 ![](/assets/images/jgis-linked-viz.jpg)
 
 :::notes
-TODO
+For example, you might want to visualize soil samples on the map, but also
+scatter plot those soil samples to find relationships between those samples'
+attributes.
+
+There's a package called "glue" that can do this, and it'd be really cool to
+integrate that functionality with a GIS-first interface.
 :::
 
 
