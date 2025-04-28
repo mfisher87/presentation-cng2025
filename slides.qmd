@@ -577,6 +577,17 @@ _Collaborative demo:_
 * Nick: _Add another annotation for a run from the top of **Aerial Tram**, let's
   take **Chip's run** down to the hotel._
 * Matt: _Respond to annotation: Rad!_
+
+
+**If something goes wrong**:
+
+* That's what I get for doing a live demo.
+<!-- alex ignore fire -->
+* I knew a live demo with collaborators was playing with fire.
+  I've flown too close to the sun, sorry for my hubris :laughing:
+<!-- alex ignore just -->
+* _Open browser debug tools_. **Hold on, I can fix this!!** Just kidding, let's move on :smile:
+* Come talk to me later and I'll tell you or show you more :smile:
 :::
 
 
