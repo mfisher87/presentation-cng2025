@@ -70,9 +70,9 @@ analysis, visualization, management, and access at the National Snow and Ice Dat
 Center.
 
 I'm a maintainer of several open source projects, and maybe we've spoken on GitHub before!
-_earthaccess_ is one of my favorite community-owned project I help maintain.
-It enables access to NASA data in 3 lines of code;
-a huge improvement: before _earthaccess_ you had to write >100 lines to authenticate and
+_earthaccess_ is one of my favorite community-owned projects I help maintain.
+It enables access to NASA data in 3 lines of code, which is a huge improvement:
+before _earthaccess_ you had to write >100 lines to authenticate and
 interact with the NASA earth science data API.
 
 I also love dogs (if you see one, let me know :grin:), gardening, and amateurishly playing music on drums and keyboards :smile:
@@ -85,7 +85,7 @@ I also love dogs (if you see one, let me know :grin:), gardening, and amateurish
 I have lots of stuff I want to talk to you all about!
 I hope we can find each other later and chat :smile:
 
-Also, if you want to check out these slides and follow the links, they are publicly
+If you want to check out these slides and follow the links, they are publicly
 available online from this QR code or URL.
 
 I'm not going to go through this slide now, but I'll show it again at the end.
@@ -142,8 +142,8 @@ be over :smile:
 ![](/assets/images/role-model.jpg)
 
 :::notes
-One last thanks to all the amazing role models in these communities who have inspired me
-to be a better community manager and developer.
+One last big thank you to all the amazing role models in these communities who
+have inspired me to be a better community manager and developer.
 
 **Thank you all.**
 :::
@@ -169,13 +169,15 @@ What is GeoJupyter?
 
 _Read the slide_
 
-**Jupyter** is a very mature community with millions of users that has already
-made huge strides in making programming more accessible to the world. and
-It also provides a powerful architecture for interactive and real-time collaborative
-development, which is why we're building on top of it.
+**Jupyter** is a mature community with millions of users that has already
+made huge strides in making programming more accessible to the world.
 
-Our mission is intentionally really broad.
-What does it look like to you to **enable more people to confidently engage with geospatial data**?
+And it provides a powerful architecture for interactive and real-time
+collaborative development, which is why we're building on top of it.
+
+Our mission is intentionally broad.
+What does it look like to **you** to **enable more people to confidently engage
+with geospatial data**?
 
 We want to hear from you, and I'll share how you can do that at the end.
 :::
@@ -232,8 +234,8 @@ think of as "GIS".
 a GIS platform in JupyterLab that can be used in similar ways to QGIS.
 We'll talk more about JupyterGIS shortly.
 
-But our work is far from limited to JupyterGIS; not everything we build is going to be a
-huge project or GIS-first.
+But our work is far from limited to JupyterGIS; not everything we build is
+going to be a huge project or GIS-first.
 It depends on what our community (that's you!) tells us they need.
 :::
 
@@ -247,7 +249,7 @@ why_geojupyter()
 :::notes
 Why are we doing this?
 
-Because geospatial is hard.
+Because working with data about our planet is hard.
 
 What we're bringing to the table is a holistic and human-centered approach to
 evaluating and improving this landscape.
@@ -255,8 +257,9 @@ evaluating and improving this landscape.
 So far we've conducted dozens of hours of user interviews to understand what folks need
 most, and we'll continue to use the input of real people to guide our priorities.
 
-The following are only a few examples of challenges we've heard from those geospatial
+The following are only a few examples of challenges we've heard from those
 practitioners.
+
 Many of these challenges have existing solutions, but they often involve
 cobbling together multiple tools, introducing workflow friction.
 :::
@@ -293,7 +296,8 @@ We **all** struggle sometimes.
 
 :::notes
 <!-- alex ignore her-him he-she fires -->
-Brianna, who you may have heard speak yesterday, lost her home in the recent fires in California.
+Brianna, who you may have heard speak yesterday, lost her home in the recent
+fires in California.
 When this happened, she was away from home.
 Her first thought, like a true geospatial nerd, was to look at the data.
 Recounting these events, she wrote:
@@ -331,7 +335,7 @@ attributes.
 
 You may find spatial correlations you wouldn't have otherwise noticed by
 interacting with variable correlations, and following those correlations back
-to the map.
+to a map.
 
 There's a package called "glue" that can do this, and it'd be really cool to
 integrate that functionality with a GIS-first interface.
@@ -346,7 +350,8 @@ why_geojupyter(2)
 
 :::notes
 Another challenge that we've heard widely reported by users is friction when
-visualizing from a programming environment, like a Jupyter Notebook.
+visualizing data about our planet from a programming environment, like a
+Jupyter Notebook.
 
 The process users described has many repeated steps, like a dance.
 We heard this so often that we gave it a name: "The GIS Bounce".
@@ -376,8 +381,11 @@ We heard this so often that we gave it a name: "The GIS Bounce".
 ::::::
 
 :::notes
-First, do some analysis. Then, write out a data file.
-If you're working in a cloud environment, download it.
+To do the GIS bounce:
+
+First, do some analysis.
+Then, write out a data file to check your work so far.
+If you're working in a cloud environment, download that data file.
 "Bounce" over to QGIS, load up a basemap, and then finally load your data.
 Now you can do your validation and "bounce" back to your notebook, and repeat!
 
@@ -420,7 +428,7 @@ explore(my_geodataframe)
 So we developed an interface for this in JupyterGIS, a function called `explore()`.
 It's still rough around the edges, but it's available now! :tada:
 
-It enables the user to pass a data structure directly to a visualization
+It enables the user to pass geospatial data directly to a visualization
 environment with **one line of code**.
 
 We'll show more shortly!
@@ -466,7 +474,7 @@ JupyterGIS is the _GeoJupyter_ flagship project, with development led by the ama
 
 :::incremental
 * Interactive GIS environment
-* JupyterLab-native (try it in a JupyterHub!)
+* JupyterLab- and browser-native (try it in a JupyterHub!)
 * Python API
 * Supports QGIS project files
 * Coming soon: STAC browser!
@@ -502,8 +510,8 @@ First, let's look at "The GIS Bounce" we talked about earlier.
   * We've got some data and we want to validate it.
   * Calling `.plot()` doesn't get us very far; it would be challenging to verify the data is properly geolocated without a basemap.
   * We would need to write more code to inspect the features' attributes.
-  * That's where the `explore()` function comes in!
-  * We can write only one line of code, excluding imports, to interact with this data much like we would in QGIS.
+  * That's where the `explore()` function we discussed comes in!
+  * With only one line of code, excluding imports, we can interact with this data much like we would in QGIS.
 * _Run final cell. Right click the "New Haven" layer, zoom to it._
   * The geolocation looks good.
   * Let's inspect the features and be sure those look the way we expect, too.
@@ -511,7 +519,8 @@ First, let's look at "The GIS Bounce" we talked about earlier.
   * We can see that this neighborhood was ranked "A" ("best") because it was
     mostly white, meaning that home loans were more readily available,
     leading to generational harm.
-  * Now we can go back to our example analysis.
+  * Now that we've explored our data, we can go back to our example analysis and
+    continue.
     We could close this panel and re-open it again later.
   * Or, because this visualizer is in a JupyterLab window, we can move it
     around and scale it however we like, leaving it available for more
@@ -535,6 +544,7 @@ Let's explore some example JupyterGIS projects.
 * _Move "Strava.Run" underneath "Waymarked"._
   * Still a bit hard to read, let's change the opacity.
 * _Set opacity of "Waymarked" to 1._
+  * That's better!
 
 Let's change it up and look at some earthquakes data.
 
@@ -546,9 +556,10 @@ Let's change it up and look at some earthquakes data.
   * We can see the earthquake's magnitude and timestamp.
     It'd be nice to visualize this on the map.
 * _Open symbology for earthquakes._
-  * Let's set the symbology to "graduated" and select the attribute we want to symbologize on.
+  * Let's set the symbology to "graduated" and select the attribute we want to symbologize on :smile:
   * We want to use color to represent the magnitude, and use a quantile scale.
 * _Click "classify"._
+  * Beautiful.
   * Now, I want to view this data over time.
 * _Open the time slider._
   * Let's select the correct time attribute and set a time step of "daily".
@@ -556,7 +567,8 @@ Let's change it up and look at some earthquakes data.
   * And let's animate it at 10 FPS.
 * _Select 10FPS, press play._
   * Someone mentioned the other day that it would be cool to persist the past
-    points when animating to see accumulation. Love that idea.
+    points when animating to see accumulation.
+    Love that idea, and we have an open issue in GitHub where you can follow along.
 
 _Collaborative demo:_
 
@@ -577,6 +589,8 @@ _Collaborative demo:_
 * Nick: _Add another annotation for a run from the top of **Aerial Tram**, let's
   take **Chip's run** down to the hotel._
 * Matt: _Respond to annotation: Rad!_
+* Matt: I think we're done planning our post-conference recreation, I guess
+  let's finish up this talk :laughing:
 
 :warning: **If something goes wrong** :warning:
 
@@ -603,6 +617,8 @@ It would be amazing to see you at one of our bi-weekly hackathons or monthly com
 You can view our community calendar on `geojupyter.org` or by following the link on this slide.
 
 We also have a community chat on Zulip, which is like an open-source Slack.
+You don't even need to register an account to view our activity, but we would
+love it if you joined in :smile:
 
 JupyterGIS is available for install with `pip`, `conda`, or equivalents, and we're
 jazzed to hear what you think :smile:
