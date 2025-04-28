@@ -473,6 +473,10 @@ JupyterGIS is the _GeoJupyter_ flagship project, with development led by the ama
 * **_Real-time collaboration_**: like Google Docs, but on a map!
 :::
 
+. . .
+
+:house: All under one roof (JupyterLab)!
+
 :::notes
 _Read the slide_
 :::
