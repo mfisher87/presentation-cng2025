@@ -560,19 +560,23 @@ Let's change it up and look at some earthquakes data.
 
 _Collaborative demo:_
 
-* Nick: Disable the hiking and running layers
-* Nick: Add `WaymarkedTrails.Slopes` layer
-* Nick: Add an annotation at the base of a trail "Let's meet here at **Aerial Tram** on Friday"
+* Nick: _Add `WaymarkedTrails.Slopes` layer_
+* Nick: _Disable the earthquakes layer_
+* Nick: _Add an annotation at the base of a trail "Let's meet here at **Aerial Tram** on Friday"_
 * Matt: Looks someone's trying to collaborate with me! Who's that?
-* Nick: Raise hand!
+* Nick: _Raise hand!_
 <!-- alex ignore he-she -->
-* Matt: That's Nick Gondek, my co-worker. Looks like he's having trouble focusing on
-  my talk and looking forward to some skiing :)
-* Matt: **Follow Nick**.
-* Matt: Respond to annotation: "Sounds awesome! Meet you there."
-* Nick: Add another annotation for a run from the top of **Aerial Tram**, let's
-  take **Chip's run** down to the hotel.
-* Matt: Respond to annotation: Rad!
+* Matt: That's Nick Gondek, my co-worker.
+  Looks like he's having trouble focusing on my talk and looking forward to
+  some skiing :)
+* Matt: _Follow Nick_.
+* Matt: I'm using the "Follow" feature to see what Nick is doing.
+* Matt: I see Nick has added an "Annotation", our name for a geospatial
+  conversation in JGIS.
+* Matt: _Respond to annotation: "Sounds awesome! Meet you there."_
+* Nick: _Add another annotation for a run from the top of **Aerial Tram**, let's
+  take **Chip's run** down to the hotel._
+* Matt: _Respond to annotation: Rad!_
 :::
 
 
