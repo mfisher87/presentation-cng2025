@@ -538,10 +538,10 @@ Let's change it up and look at some earthquakes data.
 * _Scrub with slider._
   * And let's animate it at 10 FPS.
 * _Select 10FPS, press play._
-  * Folks have requested that we don't hide past data points, and I love that idea.
-    That's the beauty of open source; anyone can make help improve the product!
+  * Someone mentioned the other day that it would be cool to persist the past
+    points when animating to see accumulation. Love that idea.
 
-Looks like someone is trying to collaborate with me right now...
+_Collaborative demo:_
 
 * Nick: Disable the hiking and running layers
 * Nick: Add `WaymarkedTrails.Slopes` layer
