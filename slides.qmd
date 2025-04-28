@@ -539,20 +539,19 @@ Let's explore some example JupyterGIS projects.
 Let's change it up and look at some earthquakes data.
 
 <!-- alex ignore color -->
-* _Click `+`, "Add Vector Layer", "Add GeoJSON Layer"._
-* Browse; select `eq.json`.
-* Zoom way out.
-* Activate the identify tool.
+* _Open `earthquakes.jgis`._
+* _Activate the identify tool._
   * We have an "identify" tool that enables you to view attributes of these features.
 * _Select a feature._
-  * We can see the earthquake's magnitude and timestamp. It'd be nice to visualize this.
+  * We can see the earthquake's magnitude and timestamp.
+    It'd be nice to visualize this on the map.
 * _Open symbology for earthquakes._
   * Let's set the symbology to "graduated" and select the attribute we want to symbologize on.
   * We want to use color to represent the magnitude, and use a quantile scale.
 * _Click "classify"._
   * Now, I want to view this data over time.
-* _Open the time slider. Select the feature "Time" to use as time._
-  * Let's select a time step of "daily".
+* _Open the time slider._
+  * Let's select the correct time attribute and set a time step of "daily".
 * _Scrub with slider._
   * And let's animate it at 10 FPS.
 * _Select 10FPS, press play._
