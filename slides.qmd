@@ -88,7 +88,7 @@ I hope we can find each other later and chat :smile:
 Also, if you want to check out these slides and follow the links, they are publicly
 available online from this QR code or URL.
 
-I'm not going to go through this slide now; I'll show it again at the end.
+I'm not going to go through this slide now, but I'll show it again at the end.
 :::
 
 
@@ -121,17 +121,17 @@ Finally, we'll talk about how you can join the community.
 {{< include logos.md >}}
 
 :::notes
-First, I'm representing a lot of folks today.
+But first, I'm representing a lot of folks today.
 I don't own this, our community does.
 I'd like the thank the many collaborators involved in this project.
-So many people and organizations have come together to make this happen!
+**So many** people and organizations have come together to make this happen!
 
 <!-- alex ignore special -->
 Special thanks to QuantStack for leading the development of JupyterGIS, and ESA for
 funding them.
 
 And personal thanks to Fernando Pérez and the Schmidt Center for Data Science &
-Environment for hiring me and supporting me to work on this project!
+Environment for supporting me to work on this project!
 
 I'd like to spend time individually thanking everyone, but then my time would
 be over :smile:
@@ -142,7 +142,7 @@ be over :smile:
 ![](/assets/images/role-model.jpg)
 
 :::notes
-Finally, thanks to all the amazing role models in these communities who have inspired me
+One last thanks to all the amazing role models in these communities who have inspired me
 to be a better community manager and developer.
 
 **Thank you all.**
@@ -216,6 +216,7 @@ And the Jupyter ecosystem offers **collaboration** and **storytelling**.
 These values belong together!
 
 But it's not going to happen by accident, like the Reese's Peanut Butter Cups commercial :smile:
+**Lots** of work needs to be done!
 :::
 
 
@@ -232,7 +233,7 @@ a GIS platform in JupyterLab that can be used in similar ways to QGIS.
 We'll talk more about JupyterGIS shortly.
 
 But our work is far from limited to JupyterGIS; not everything we build is going to be a
-huge project.
+huge project or GIS-first.
 It depends on what our community (that's you!) tells us they need.
 :::
 
@@ -248,14 +249,13 @@ Why are we doing this?
 
 Because geospatial is hard.
 
-What we are bringing to the table is a holistic approach to evaluating and
-improving this landscape.
-To achieve this, we're taking a human-centric approach to finding and addressing these
-gaps.
+What we're bringing to the table is a holistic and human-centered approach to
+evaluating and improving this landscape.
+
 So far we've conducted dozens of hours of user interviews to understand what folks need
 most, and we'll continue to use the input of real people to guide our priorities.
 
-These are only a few examples of challenges we've heard from those geospatial
+The following are only a few examples of challenges we've heard from those geospatial
 practitioners.
 Many of these challenges have existing solutions, but they often involve
 cobbling together multiple tools, introducing workflow friction.
@@ -269,9 +269,9 @@ why_geojupyter(0)
 ```
 
 :::notes
-Geospatial is hard, even for experts.
+Geospatial is hard, **even for experts**.
 
-We all struggle sometimes.
+We **all** struggle sometimes.
 :::
 
 
@@ -296,7 +296,7 @@ We all struggle sometimes.
 Brianna, who you may have heard speak yesterday, lost her home in the recent fires in California.
 When this happened, she was away from home.
 Her first thought, like a true geospatial nerd, was to look at the data.
-In the story linked on this slide, she wrote:
+Recounting these events, she wrote:
 
 > I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
 > processing pipelines, I help manage one of the NASA satellite data centers, I teach
@@ -328,6 +328,10 @@ different ways, and have those visualizations interactively linked.
 For example, you might want to visualize soil samples on the map, but also
 scatter plot those soil samples to find relationships between those samples'
 attributes.
+
+You may find spatial correlations you wouldn't have otherwise noticed by
+interacting with variable correlations, and following those correlations back
+to the map.
 
 There's a package called "glue" that can do this, and it'd be really cool to
 integrate that functionality with a GIS-first interface.
@@ -372,14 +376,16 @@ We heard this so often that we gave it a name: "The GIS Bounce".
 ::::::
 
 :::notes
-First, do some analysis. Then, write out a data file. Download it.
-"Bounce" over to QGIS, and open your data alongside a basemap.
+First, do some analysis. Then, write out a data file.
+If you're working in a cloud environment, download it.
+"Bounce" over to QGIS, load up a basemap, and then finally load your data.
 Now you can do your validation and "bounce" back to your notebook, and repeat!
 
 That's a lot of steps, and they are repeated every time a practitioner does a
-critical task: checking their work. It doesn't have to be this way!
+critical task: checking their work.
 
-Checking your work should be seamless and joyful.
+Checking our work shouldn't be frustrating and time-consuming, it should be
+seamless, joyful, and rewarding.
 :::
 
 
@@ -411,9 +417,12 @@ explore(my_geodataframe)
 ::::::
 
 :::notes
-So we developed an API for this, the `explore()` function.
-It's currently a work in progress, but it enables the user to pass a data
-structure directly to a visualization environment with **one line of code**.
+So we developed an interface for this in JupyterGIS, a function called `explore()`.
+It's still rough around the edges, but it's available now! :tada:
+
+It enables the user to pass a data structure directly to a visualization
+environment with **one line of code**.
+
 We'll show more shortly!
 :::
 
@@ -447,7 +456,7 @@ There's lots more to do, and we want to hear what's important to you.
 
 
 :::notes
-Let's talk about some of the work in progress now!
+Let's talk about some of out work in progress now!
 
 JupyterGIS is the _GeoJupyter_ flagship project, with development led by the amazing folks at QuantStack.
 :::
@@ -484,7 +493,7 @@ First, let's look at "The GIS Bounce" we talked about earlier.
 * _Open `explore.jgis`._
   * This notebook explores a dataset about the discrimatory practice of
     "redlining", in which a government agency graded neighborhoods to
-    financially exclude  people on the basis of race.
+    financially exclude people on the basis of race.
 * _Run the notebook cell by cell, except the final cell_
   * We've got some data and we want to validate it.
   * Calling `.plot()` doesn't get us very far; it would be challenging to verify the data is properly geolocated without a basemap.
@@ -495,9 +504,14 @@ First, let's look at "The GIS Bounce" we talked about earlier.
   * The geolocation looks good.
   * Let's inspect the features and be sure those look the way we expect, too.
   <!-- alex ignore white -->
-  * We can see that this neighborhood was ranked "A" ("best") because it was mostly white.
-  * Now we can go back to our analysis. We can close it and re-open it again later.
-  * Or, because this visualizer is in a JupyterLab window, we can move it around and scale it however we like.
+  * We can see that this neighborhood was ranked "A" ("best") because it was
+    mostly white, meaning that home loans were more readily available,
+    leading to generational harm.
+  * Now we can go back to our example analysis.
+    We could close this panel and re-open it again later.
+  * Or, because this visualizer is in a JupyterLab window, we can move it
+    around and scale it however we like, leaving it available for more
+    visualization later.
 * _Move the window to a bottom pane and scale it way down._
 
 Let's explore some example JupyterGIS projects.
