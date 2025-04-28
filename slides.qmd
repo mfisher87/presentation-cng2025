@@ -578,8 +578,7 @@ _Collaborative demo:_
   take **Chip's run** down to the hotel._
 * Matt: _Respond to annotation: Rad!_
 
-
-**If something goes wrong**:
+:warning: **If something goes wrong** :warning:
 
 * That's what I get for doing a live demo.
 <!-- alex ignore fire -->
