@@ -607,6 +607,12 @@ _Collaborative demo:_
 :::
 
 
+<!-- alex ignore just -->
+## Demo recording (just in case)
+
+{{< video /assets/video/jgis-demo.mp4 >}}
+
+
 ## How you can join
 
 {{< include how-you-can-join.md >}}
