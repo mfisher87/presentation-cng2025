@@ -231,7 +231,7 @@ But it's not going to happen by accident, like the Reese's Peanut Butter Cups co
 think of as "GIS".
 
 **JupyterGIS** is our flagship project, led by QuantStack;
-a GIS platform in JupyterLab that can be used in similar ways to QGIS.
+a GIS platform in JupyterLab that can be used in similar ways to QGIS plus more.
 We'll talk more about JupyterGIS shortly.
 
 But our work is far from limited to JupyterGIS; not everything we build is
