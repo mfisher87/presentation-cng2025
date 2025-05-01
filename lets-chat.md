@@ -20,7 +20,9 @@
 
 :hole: What gaps or friction you see in the open source geospatial ecosystem
 
-:stop_sign: What's stopping your team from integrating JupyterGIS in your workflows
+:jigsaw: Do you have a project that you feel fits in this community?
+
+:stop_sign: What's stopping your team from trying JupyterGIS?
 :::
 ::::::
 
