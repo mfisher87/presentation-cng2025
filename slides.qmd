@@ -30,8 +30,10 @@ def why_geojupyter(active: int | None = None) -> str:
   ]
   lst = []
   for index, item in enumerate(items):
-    if active is None or index == active:
+    if active is None:
       lst.append(f"* {item}")
+    elif index == active:
+      lst.append(f"* **{item}**")
     elif index < active:
       lst.append(f"* [~~{item}~~]{{.fade}}")
     elif index > active:
