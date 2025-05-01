@@ -7,7 +7,7 @@ authors:
     orcid: "0000-0003-3260-5445"
 title-slide-attributes:
   data-notes: |
-    Hi! I'm used to presenting remotely, so I hope you'll forgive my nervousness today.
+    Good morning!
 format:
   revealjs:
     from: "markdown+emoji"
