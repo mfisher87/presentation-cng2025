@@ -583,6 +583,7 @@ _Collaborative demo:_
 * Matt: That's Nick Gondek, my co-worker.
   Looks like he's having trouble focusing on my talk and looking forward to
   some skiing :)
+* Matt: Nick is shown here as a collaborator on this JupyterGIS project.
 * Matt: _Follow Nick_.
 * Matt: I'm using the "Follow" feature to see what Nick is doing.
 * Matt: I see Nick has added an "Annotation", our name for a geospatial
