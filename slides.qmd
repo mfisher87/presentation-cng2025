@@ -591,7 +591,7 @@ _Collaborative demo:_
 * Matt: _Respond to annotation: "Sounds awesome! Meet you there."_
 * Nick: _Add another annotation for a run from the top of **Aerial Tram**, let's
   take **Chip's run** down to the hotel._
-* Matt: _Respond to annotation: Rad!_
+* Matt: _Respond to annotation: Siiick!_
 * Matt: I think we're done planning our post-conference recreation, I guess
   let's finish up this talk :laughing:
 
@@ -612,6 +612,8 @@ _Collaborative demo:_
 {{< include how-you-can-join.md >}}
 
 :::notes
+I'm sure you're wondering "how can I be a part of this rad community?"
+
 There are lots of ways you can join our community and be a part of this mission.
 
 We'd love to talk to you about your needs, frustrations, and opinions in an interview.
