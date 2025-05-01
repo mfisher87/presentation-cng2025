@@ -472,6 +472,10 @@ JupyterGIS is the _GeoJupyter_ flagship project, with development led by the ama
 
 ## What is it? How is it different?
 
+:::notes
+_Read the slide_
+:::
+
 :::incremental
 * Interactive GIS environment
 * JupyterLab- and browser-native (try it in a JupyterHub!)
@@ -484,10 +488,6 @@ JupyterGIS is the _GeoJupyter_ flagship project, with development led by the ama
 . . .
 
 :house: All under one roof (JupyterLab)!
-
-:::notes
-_Read the slide_
-:::
 
 
 ## Demo
