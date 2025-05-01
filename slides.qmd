@@ -572,6 +572,7 @@ Let's change it up and look at some earthquakes data.
 
 _Collaborative demo:_
 
+* Nick: _Join collaborative session on earthquakes.jGIS_
 * Nick: _Add `WaymarkedTrails.Slopes` layer_
 * Nick: _Disable the earthquakes layer_
 * Nick: _Add an annotation at the base of a trail "Let's meet here at **Aerial Tram** on Friday"_
