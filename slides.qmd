@@ -577,7 +577,7 @@ _Collaborative demo:_
 * Nick: _Add `WaymarkedTrails.Slopes` layer_
 * Nick: _Disable the earthquakes layer_
 * Nick: _Add an annotation at the base of a trail "Let's meet here at **Aerial Tram** on Friday"_
-* Matt: Looks someone's trying to collaborate with me! Who's that?
+* Matt: Looks someone's trying to collaborate with me! Who could that be? :thinking:
 * Nick: _Raise hand!_
 <!-- alex ignore he-she -->
 * Matt: That's Nick Gondek, my co-worker.
