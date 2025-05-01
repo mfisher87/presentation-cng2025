@@ -298,8 +298,8 @@ We **all** struggle sometimes.
 <!-- alex ignore her-him he-she fires -->
 Brianna, who you may have heard speak yesterday, lost her home in the recent
 fires in California.
-When this happened, she was away from home.
-Her first thought, like a true geospatial nerd, was to look at the data.
+When she learned her home was at risk, her first thought, like a true scientist
+and geospatial nerd, was to look at the data.
 Recounting these events, she wrote:
 
 > I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
