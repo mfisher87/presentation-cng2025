@@ -503,11 +503,12 @@ _Open in private window:_
 First, let's look at "The GIS Bounce" we talked about earlier.
 
 * _Open `explore.jgis`._
-  * This notebook explores a dataset about the discrimatory practice of
-    "redlining", in which a government agency graded neighborhoods to
-    financially exclude people on the basis of race.
+  * This notebook explores a dataset about the discrimatory US government
+    practice of "redlining" from the 1930s-1960s.
+    Redlining was a practice of grading neighborhoods to financially exclude
+    people on the basis of race.
 * _Run the notebook cell by cell, except the final cell_
-  * We've got some data and we want to validate it.
+  * We've got some data and we want to validate it before continuing our analysis..
   * Calling `.plot()` doesn't get us very far; it would be challenging to verify the data is properly geolocated without a basemap.
   * We would need to write more code to inspect the features' attributes.
   * That's where the `explore()` function we discussed comes in!
