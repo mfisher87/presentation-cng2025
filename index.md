@@ -7,9 +7,10 @@ format:
 
 Thanks for listening to our talk :grin:
 
-:playground_slide: Check out the [slides](/slides.qmd)!
+{{< video https://www.youtube.com/embed/wRbt4dwDI-4 >}}
 
+## :playground_slide: Check out the [slides](/slides.qmd)!
 
-## How you can join our community
+## :handshake: How you can join our community
 
 {{< include how-you-can-join.md >}}
